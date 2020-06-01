@@ -1,0 +1,106 @@
+April 2nd 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 428)
+
+I wrote a "hidden" comment yesterday about my issues lately and how they benefited the April Fools joke. They actually did. I have been having ongoing severe issues with tension for 3 days now, the first 2 days were intolerable for work. I have had issues with jaw tension my whole life, and I have taken medications for it. There is currently an issue with hypertension that I am working out, but it was good enough today to let me actually work on my website. I had more time to work on it as well, and the sun is finally shining outside again today (it has been hailing and raining a lot lately)
+Normal documentation
+
+• Updated the SNU 2D update log - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+* Updated the snapshot section
+
+• Updated the SNU 2D developer log - April 2nd 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 370 for the SNU 2D update log - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 370 for the SNU 2D developer log - April 2nd 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 2nd 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 40 new versions added
+
+• Created snapshot 251 for the resource version index - April 2nd 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 2nd 2020 log - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 2nd 2020 article - April 2nd 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 2nd 2020 log - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 2nd 2020 article - April 2nd 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate developer log page for the Week 61 article - April 2nd 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate developer log page for the Week 61 article - April 2nd 2020 [FOR SNU DEVELOPER LOG]
+SNU 3D printing
+
+• Created the homepage for the SNU 3D printing center - April 2nd 2020 [FOR SNU 3D PRINTING]
+
+• Created snapshot 1 for the SNU 3D printing center homepage - April 2nd 2020 [FOR SNU 3D PRINTING]
+
+• Created the SNU 3D printer demo viewer test page - April 2nd 2020 [FOR SNU 3D PRINTING]
+
+• Created snapshot 1 for the SNU 3D printer demo viewer test page - April 2nd 2020 [FOR SNU 3D PRINTING]
+SNU Puzzle Center
+
+• Created the homepage for the SNU Puzzle Center - April 2nd 2020 [FOR SNU PUZZLE CENTER]
+
+• Created snapshot 1 for the homepage for the SNU Puzzle center - April 2nd 2020 [FOR SNU PUZZLE CENTER]
+SNU Internet Museum
+
+• Updated the page for Twitter - April 2nd 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 2 for the Twitter museum - April 2nd 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the page for SNU - April 2nd 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 2 for the SNU museum - April 2nd 2020 [FOR SNU INTERNET MUSEUM]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 1st 2020 - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 1st 2020 - April 2nd 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 1st 2020 - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 1st 2020 - April 2nd 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 1st 2020 - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 1st 2020 - April 2nd 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 1st 2020 - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 1st 2020 - April 2nd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 1st 2020 - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 1st 2020 - April 2nd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 1st 2020 - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 1st 2020 - April 2nd 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 1st 2020 - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 1st 2020 - April 2nd 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 1st 2020 - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 1st 2020 - April 2nd 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 1st 2020 - April 2nd 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 1st 2020 - April 2nd 2020 [FOR SNU UPDATE LOG]
+
+I was going to work on the Internet Museum more today, but I had some other projects I wanted to work on. I thought I started a 3D printing part of the site, but it turns out, I didn't. So today, I added in a 3D printing center to the site, and a place to make puzzles, as VLC has the option, but SNU needs its own puzzle system. I also did the usual documentation, with preparation for the week 61 article to be exported, and also I worked on a few pages on the SNU Internet Museum. Today was a comeback day from 2 days of failure after hypertension in my jaw stopped me dead in my tracks. I hope to continue development strong again tomorrow.

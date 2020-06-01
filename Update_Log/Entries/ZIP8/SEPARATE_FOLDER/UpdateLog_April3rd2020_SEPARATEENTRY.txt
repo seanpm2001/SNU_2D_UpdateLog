@@ -1,0 +1,105 @@
+
+April 3rd 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 429)
+
+I was a lot more unscheduled today, despite having a lot more time. I was able to make a smaller update, I didn't plan for much more today. Earlier this afternoon, my laptop began to have its CPU memory leak issue again, and I was able to counter it for now. If it gets worse again tomorrow (If a process with SYSTEM permissions has a memory leak) development might go much worse. I was able to save it today though.
+Normal documentation
+
+• Updated the SNU 2D update log - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 3rd 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 371 for the SNU 2D update log - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 371 for the SNU 2D developer log - April 3rd 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 3rd 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 41 new versions added
+
+• Created snapshot 252 for the resource version index - April 3rd 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 3rd 2020 log - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 3rd 2020 article - April 3rd 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 3rd 2020 log - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 3rd 2020 article - April 3rd 2020 [FOR SNU DEVELOPER LOG]
+SNU Internet Museum
+
+• Updated the page for Twitter - April 3rd 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 3 for the Twitter museum - April 3rd 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the page for Blender - April 3rd 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 2 for the SNU museum - April 3rd 2020 [FOR SNU INTERNET MUSEUM]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 2nd 2020 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 2nd 2020 - April 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 2nd 2020 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 2nd 2020 - April 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 2nd 2020 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 2nd 2020 - April 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 2nd 2020 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 2nd 2020 - April 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 2nd 2020 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 2nd 2020 - April 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 2nd 2020 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 2nd 2020 - April 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 2nd 2020 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 2nd 2020 - April 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 2nd 2020 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 2nd 2020 - April 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 2nd 2020 - April 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 2nd 2020 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from Week 61 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from Week 61 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from Week 61 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from Week 61 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from Week 61 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from Week 61 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from Week 61 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from Week 61 - April 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ZIP version of the 8 developer log exports from Week 61 - April 3rd 2020 [FOR SNU DEV LOG]
+
+I would have done more today if I would have planned for more. Today, I worked mainly on documentation, with a daily update to the SNU Internet Museum (1 more page was modernized today, and the twitter page received some updates) other than that, it was a small development day. I have many new ideas that I came up with that I will try to start working on tomorrow, I just didn't have as much time today.

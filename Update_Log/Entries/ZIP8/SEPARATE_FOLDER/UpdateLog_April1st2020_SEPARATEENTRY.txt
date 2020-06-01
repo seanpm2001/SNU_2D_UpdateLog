@@ -1,0 +1,77 @@
+April 1st 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 427)
+Developer log weekly summary: view it here (developer log week 61)
+
+I have really been out of it lately. I was going to try and do something again today, but it didn't work out. Today I have adopted a new library from GitHub called NoCode, it will be part of the SNU 3.4.0 branch, you can view it here SNU 3.4.0beta1I only worked on documentation today, as that is all I was capable of.
+
+• Updated the SNU 2D update log - April 1st 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 1st 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 369 for the SNU 2D update log - April 1st 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 369 for the SNU 2D developer log - April 1st 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 1st 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 28 new versions added
+
+• Created snapshot 250 for the resource version index - April 1st 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 1st 2020 log - April 1st 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 1st 2020 article - April 1st 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 1st 2020 log - April 1st 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 1st 2020 article - April 1st 2020 [FOR SNU DEVELOPER LOG]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 31st 2020 - April 1st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 31st 2020 - April 1st 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 31st 2020 - April 1st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 31st 2020 - April 1st 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 31st 2020 - April 1st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 31st 2020 - April 1st 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 31st 2020 - April 1st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 31st 2020 - April 1st 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 31st 2020 - April 1st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 31st 2020 - April 1st 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 31st 2020 - April 1st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 31st 2020 - April 1st 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 31st 2020 - April 1st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 31st 2020 - April 1st 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 31st 2020 - April 1st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 31st 2020 - April 1st 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from March 31st 2020 - April 1st 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from March 31st 2020 - April 1st 2020 [FOR SNU UPDATE LOG]
+
+A major issue came up today that will really hinder site development. I wrote an article about it The Apple purchase of the iframe element I want to keep SNU open source, but I am worried about what Apple plans to do with this crucially important tag. I am going to have to pay a fine to even use it License cost of an apple iframe license is $99 I honestly can't believe this, they have received so much criticism for this, as so many people are currently using the tag, that they took the page down. Now there is no way to pay your iFee! Someone needs to get together and get a tag that can't be branded by a current company. So that is why development will be starting on the wwwframe project. I don't have the capacity to work on it yet, so I outsourced it to the Knome foundation, as GNOME and KDE have come together to fix things today. It should be ready in a few weeks, then Apple will be screwed! This is the longest entry I have ever done. I don't know if anyone is going to buy this tnih tnih (:

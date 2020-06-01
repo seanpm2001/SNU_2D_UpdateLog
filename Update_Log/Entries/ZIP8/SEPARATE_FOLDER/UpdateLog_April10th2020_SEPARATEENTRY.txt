@@ -1,0 +1,108 @@
+
+April 10th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 436)
+
+I have been preparing SNU for public collaboration today. I had a lot of time, but I spent a lot of it on other projects, and break time. I didn't have as much I wanted to do today. Today, I did another documentation update, removing over 0.36 Megabytes of comment data from the update log for the entirety of March 2020 and yesterday to save space, as older snapshots, and separate blog pages already have the comments, and that is just enough. I also worked on the Committee system, so I could further plan the development of the site, and finally, I worked on another update to the OOVID-19 disease research page.
+Normal documentation
+
+• Updated the SNU 2D update log - April 10th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 10th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 378 for the SNU 2D update log - April 10th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 378 for the SNU 2D developer log - April 10th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 10th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 40 new versions added
+
+• Created snapshot 259 for the resource version index - April 10th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 10th 2020 log - April 10th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 10th 2020 article - April 10th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 10th 2020 log - April 10th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 10th 2020 article - April 10th 2020 [FOR SNU DEVELOPER LOG]
+SNU Committee
+
+• Created a Developer Greylist page - April 10th 2020 [FOR SNU COMMITTEE]
+
+• Created snapshot 1 for the Developer Greylist page - April 10th 2020 [FOR SNU COMMITTEE]
+
+• Created a Developer Whitelist page - April 10th 2020 [FOR SNU COMMITTEE]
+
+• Created snapshot 1 for the Developer Whitelist page - April 10th 2020 [FOR SNU COMMITTEE]
+
+• Created a Developer Blacklist page - April 10th 2020 [FOR SNU COMMITTEE]
+
+• Created snapshot 1 for the Developer Blacklist page - April 10th 2020 [FOR SNU COMMITTEE]
+
+• Created a Developer Requirements page - April 10th 2020 [FOR SNU COMMITTEE]
+
+• Created snapshot 1 for the Developer Requirements page - April 10th 2020 [FOR SNU COMMITTEE]
+
+• Created an efficiency guidelines page - April 10th 2020 [FOR SNU COMMITTEE]
+
+• Created snapshot 1 for the efficiency guidelines page - April 10th 2020 [FOR SNU COMMITTEE]
+SNU Disease Research Center
+
+• Updated a research article on Coronavirus/COVID-19 - April 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+Changes:
+
+* Added new data
+
+• Created snapshot 5 for the CoronaVirus/COVID-10 article - April 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 9th 2020 - April 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 9th 2020 - April 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 9th 2020 - April 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 9th 2020 - April 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 9th 2020 - April 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 9th 2020 - April 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 9th 2020 - April 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 9th 2020 - April 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 9th 2020 - April 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 9th 2020 - April 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 9th 2020 - April 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 9th 2020 - April 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 9th 2020 - April 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 9th 2020 - April 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 9th 2020 - April 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 9th 2020 - April 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 9th 2020 - April 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 9th 2020 - April 10th 2020 [FOR SNU UPDATE LOG]
+
+Today was a short development day, I have to do some more adjustments to my schedule, as Spring Break is over after Sunday, and I have to get to online school work again. There is also another personal project completing soon, and it might affect my schedule a bit. I want to lay down development guidelines for SNU, so that it can be managed correctly, and so I can finally get it out and begin the project globally. It will still be a while until I do that, but I am still preparing. Today was a decent day for development. I have lots of new plans now as well for what to do next.

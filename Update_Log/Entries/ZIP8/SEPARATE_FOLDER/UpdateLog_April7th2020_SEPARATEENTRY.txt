@@ -1,0 +1,144 @@
+
+April 7th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 433)
+
+I had another really good day with development again today. It was also announced last night that school is canceled for the summer and that all classes will be online now. So I don't have to worry about going back to school and getting back into schedule anymore. Today I worked on documentation, an update to the SNU Video center, which is going to be a massive part of the site. I also did an update to the Internet Museum, I have a working format for page syntax going now, and I wanted to update it today. I also worked on a new Health Center, which will be a part of the site dedicated to health, and I also did some critical updates to SourceBase. I would do more, but I don't have as much time today, and I don't want to overwhelm myself.
+Normal documentation
+
+• Updated the SNU 2D update log - April 7th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 7th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 375 for the SNU 2D update log - April 7th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 375 for the SNU 2D developer log - April 7th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 7th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 44 new versions added
+
+• Created snapshot 256 for the resource version index - April 7th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 7th 2020 log - April 7th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 7th 2020 article - April 7th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 7th 2020 log - April 7th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 7th 2020 article - April 7th 2020 [FOR SNU DEVELOPER LOG]
+SNU Video
+
+• Created the SNU Video homepage - April 7th 2020 [FOR SNU VIDEO]
+
+• Created snapshot 1 for the SNU Video homepage - April 7th 2020 [FOR SNU VIDEO]
+
+• Updated the SNU Video player page - April 7th 2020 [FOR SNU VIDEO]
+
+• Created snapshot 2 for the SNU Video player page - April 7th 2020 [FOR SNU VIDEO]
+SNU Internet Museum
+
+• Updated the Valve Internet Museum page - April 7th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* Added sources
+
+* Updated semantic tags
+
+* Added info on Steam (software) SteamOS, Half Life 1, 2, Portal 1, 2, the Orange Box, Team Fortress Classic, and Valve time
+
+• Created snapshot 4 for the Valve Internet Museum page - April 7th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the 4chan Internet Museum page - April 7th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 2 for the 4chan Internet Museum page - April 7th 2020 [FOR SNU INTERNET MUSEUM]
+SNU Health center
+
+• Created the SNU Health Center homepage - April 7th 2020 [FOR SNU HEALTH CENTER]
+
+• Created snapshot 1 for the SNU Health Center homepage - April 7th 2020 [FOR SNU HEALTH CENTER]
+
+• Created the Anti-vaccination hall of shame page - April 7th 2020 [FOR SNU HEALTH CENTER]
+
+• Created snapshot 1 for the Anti-vax hall of shame page - April 7th 2020 [FOR SNU HEALTH CENTER]
+SourceBase (SNU/StartAScript)
+
+• Created version 16 (1.15) of the SNU SourceBase HTML5 web template - April 7th 2020 [FOR SNU STARTASCRIPT]
+
+Changes:
+
+* A critical bug was found that prevented videos from loading into pages, it was noted that the WebGL CSS prevented the video tag from working. This section has been commented out, so that videos work, and the developer can uncomment it and try to fix it if WebGL is needed
+
+* DOM Syntax update (working on making it XHMTL and DOM compliant)
+
+• Updated the SourceBase homepage - April 7th 2020 [FOR SNU STARTASCRIPT]
+
+Changes:
+
+* Fixed the CSS 1.11 SourceBase section
+
+* Fixed a formatting bug on SourceBase CSS 1.14 display
+
+* Added in a template for SourceBase 1.15 (HTML, CSS, PHP, Ruby)
+
+* Added in support for remixes, and SourceBase SNU Standard T-1.14 and T-1.15, along with the unconverted versions
+
+* Updated the sidebar
+
+* Added in several blank entries for different template versions
+
+* Added in many new lang attributes to all document lines (excluding the actual templates, that is done separately)
+
+• Created snapshot 10 for the SNU SourceBase homepage - April 7th 2020 [FOR SNU STARTASCRIPT]
+
+• Created a remix of SourceBase HTML 1.14 for site use, SNU Standard T-1.14 - April 5th 2020 [FOR SNU STARTASCRIPT]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 6th 2020 - April 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 6th 2020 - April 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 6th 2020 - April 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 6th 2020 - April 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 6th 2020 - April 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 6th 2020 - April 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 6th 2020 - April 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 6th 2020 - April 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 6th 2020 - April 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 6th 2020 - April 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 6th 2020 - April 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 6th 2020 - April 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 6th 2020 - April 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 6th 2020 - April 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 6th 2020 - April 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 6th 2020 - April 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 6th 2020 - April 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 6th 2020 - April 7th 2020 [FOR SNU UPDATE LOG]
+
+The new SNU Standard template is working really well for me, it has significantly sped up page development time for new pages. On the Blue screen project, I still have gotten no feedback back from my brother-in-law, I might need to remind him about it. Today was another really good day for development, development has been going semi-strong for 3 days now. I am also doing well in some of my other projects, but I might need some time to work on 2 projects. I haven't set up a time for it yet.
