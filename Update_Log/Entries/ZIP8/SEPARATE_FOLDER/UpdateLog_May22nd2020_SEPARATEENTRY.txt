@@ -1,0 +1,119 @@
+
+May 22nd 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 478)
+
+I picked up the pace today and did a little more. I am still getting into schedule, this will take a while. Today, I added another important part of the SNU data management system, which is user history (search, watch, etc history) this feature is also currently just a template, as SNU still doesn't have upload functionality. I also updated the main SNU data management center page.
+Normal documentation
+
+• Updated the SNU 2D update log - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - May 22nd 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 420 for the SNU 2D update log - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 420 for the SNU 2D developer log - May 22nd 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - May 22nd 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 43 new versions added
+
+• Created snapshot 301 for the resource version index - May 22nd 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the May 22nd 2020 log - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the May 22nd 2020 article - May 22nd 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the May 22nd 2020 log - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the May 22nd 2020 article - May 22nd 2020 [FOR SNU DEVELOPER LOG]
+SNU Staff Ideaboard
+
+• Updated the SNU Staff Ideaboard - May 22nd 2020 [FOR SNU IDEABOARD]
+
+• Created snapshot 226 for the SNU Staff ideaboard - May 22nd 2020 [FOR SNU IDEABOARD]
+SNU Data management center
+
+• Updated the SNU Data management center - May 22nd 2020 [FOR SNU DATA MANAGEMENT CENTER]
+
+Changes:
+
+* Big sidebar update
+
+* Updated info and syntax
+
+* Updated the history section
+
+• Created snapshot 2 for the SNU Data management center - May 22nd 2020 [FOR SNU DATA MANAGEMENT CENTER]
+SNU User History management center
+
+• Created the homepage for the SNU User history management center - May 22nd 2020 [FOR SNU USER HISTORY]
+
+• Created snapshot 1 for the SNU User history management center - May 22nd 2020 [FOR SNU USER HISTORY]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from May 21st 2020 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from May 21st 2020 - May 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from May 21st 2020 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from May 21st 2020 - May 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from September May 21st 2020 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from May 21st 2020 - May 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from May 21st 2020 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from May 21st 2020 - May 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from May 21st 2020 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from May 21st 2020 - May 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from May 21st 2020 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from May 21st 2020 - May 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from September May 21st 2020 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from May 21st 2020 - May 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from May 21st 2020 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from May 21st 2020 - May 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from May 21st 2020 - May 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from May 21st 2020 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from Week 68 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from Week 68 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from Week 68 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from Week 68 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from Week 68 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from Week 68 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from Week 68 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from Week 68 - May 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ZIP version of the 8 developer log exports from Week 68 - May 22nd 2020 [FOR SNU DEV LOG]
+
+Today was another short day for development. It was mostly a documentation and template update. I hope to get more done tomorrow compared to today. Today was an OK day for development.

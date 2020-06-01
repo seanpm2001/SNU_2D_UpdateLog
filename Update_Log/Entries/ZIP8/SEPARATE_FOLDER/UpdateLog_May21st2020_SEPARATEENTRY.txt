@@ -1,0 +1,91 @@
+May 21st 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 477)
+
+I am back with normal development today. It feels really strange, but I should get used to it soon. I got so used to the development of an audio management program that I feel completely different when developing SNU. During the export time, since May 2nd 2020, I have worked on an audio database software as a replacement for SNU development, and I made significant progress with it. I am still developing it. I am unsure if I will integrate it in its entirety to SNU, but it is just recently being converted from personal software to public software.
+Normal documentation
+
+• Updated the SNU 2D update log - May 21st 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - May 21st 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 419 for the SNU 2D update log - May 21st 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 419 for the SNU 2D developer log - May 21st 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - May 21st 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 34 new versions added
+
+• Created snapshot 300 for the resource version index - May 21st 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the May 21st 2020 log - May 21st 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the May 21st 2020 article - May 21st 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the May 21st 2020 log - May 21st 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the May 21st 2020 article - May 21st 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate developer log page for the Week 68 article - May 21st 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate developer log page for the Week 68 article - May 21st 2020 [FOR SNU DEVELOPER LOG]
+SNU Staff Ideaboard
+
+• Updated the SNU Staff Ideaboard - May 21st 2020 [FOR SNU IDEABOARD]
+
+• Created snapshot 225 for the SNU Staff ideaboard - May 21st 2020 [FOR SNU IDEABOARD]
+SNU Data management center
+
+• Created the homepage for the SNU data management center - May 21st 2020 [FOR SNU DATA MANAGEMENT]
+
+• Created snapshot 1 for the homepage for the SNU data management center - May 21st 2020 [FOR SNU DATA MANAGEMENT]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from May 20th 2020 - May 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from May 20th 2020 - May 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from May 20th 2020 - May 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from May 20th 2020 - May 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from September May 20th 2020 - May 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from May 20th 2020 - May 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from May 20th 2020 - May 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from May 20th 2020 - May 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from May 20th 2020 - May 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from May 20th 2020 - May 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from May 20th 2020 - May 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from May 20th 2020 - May 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from September May 20th 2020 - May 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from May 20th 2020 - May 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from May 20th 2020 - May 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from May 20th 2020 - May 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from May 20th 2020 - May 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from May 20th 2020 - May 21st 2020 [FOR SNU UPDATE LOG]
+
+Along with documentation and an ideaboard update, a new major feature that was added today is a data management center. It is a place where users can download and delete data that is uploaded to SNU. Unlike GoogleTakeout (1 inspiration to this, inspired to improve past it personal information is not logged in this, unless you upload it yourself. I had little time with development today, and the site doesn't have upload functionality yet, so I just got the base ready. Today was a decent day for development.

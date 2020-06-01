@@ -1,0 +1,80 @@
+May 16th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 472)
+
+I had to skip development today so I could get my schedule under control. I am managing my time very poorly, and it is not applicable anymore (starting work past 6:00 pm to finish before 7:00 pm) so I only did the bare minimum documentation today, so I could have time to work on other projects. i didn't do a hard drive backup today, I hope to do so tomorrow, but I won't be able to test the new hard drive out, due to a forecast of heavy thunderstorms all day.
+Normal documentation
+
+• Updated the SNU 2D update log - May 16th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - May 16th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 414 for the SNU 2D update log - May 16th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 414 for the SNU 2D developer log - May 16th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - May 16th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 28 new versions added
+
+• Created snapshot 295 for the resource version index - May 16th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the May 16th 2020 log - May 16th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the May 16th 2020 article - May 16th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the May 16th 2020 log - May 16th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the May 16th 2020 article - May 16th 2020 [FOR SNU DEVELOPER LOG]
+Early separate documents (Pre-February 2020)
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from May 15th 2020 - May 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from May 15th 2020 - May 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from May 15th 2020 - May 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from May 15th 2020 - May 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from September May 15th 2020 - May 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from May 15th 2020 - May 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from May 15th 2020 - May 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from May 15th 2020 - May 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from May 15th 2020 - May 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from May 15th 2020 - May 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from May 15th 2020 - May 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from May 15th 2020 - May 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from September May 15th 2020 - May 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from May 15th 2020 - May 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from May 15th 2020 - May 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from May 15th 2020 - May 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from May 15th 2020 - May 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from May 15th 2020 - May 16th 2020 [FOR SNU UPDATE LOG]
+
+I am going to work to get my schedule under control again. Development should hopefully begin again normally tomorrow (with the project I have been doing, of course) tomorrow should be the perfect day to get it under control, a rainy day with less distractions. I had the time today, but I chose to spend an extra 2 hours being unproductive to SNU development. I will try to not let this happen again this month.
+
+Add a bottom description here

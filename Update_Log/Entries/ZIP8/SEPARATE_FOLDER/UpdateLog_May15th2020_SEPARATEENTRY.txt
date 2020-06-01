@@ -1,0 +1,87 @@
+May 15th 2020
+Tag_devlog
+Developer log entry for today: view it here (developer log day 471)
+
+I had very little time for site development and some other projects today. I had to cut updates to the weekly system, because I didn't have the time for it. To stay productive, I went and linked to all older developer log and update log separate entry pages. I had a lot to do today, I was redownloading music, as some files were lost, I got a haircut, I visited with friends, and I went to WA-HI to get pictures for graduation (however the actual graduation will happen in June) and I was also managing time very poorly.
+Normal documentation
+
+• Updated the SNU 2D update log - May 15th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - May 15th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 413 for the SNU 2D update log - May 15th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 413 for the SNU 2D developer log - May 15th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - May 15th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 30 new versions added
+
+• Created snapshot 294 for the resource version index - May 15th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the May 15th 2020 log - May 15th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the May 15th 2020 article - May 15th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the May 15th 2020 log - May 15th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the May 15th 2020 article - May 15th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate update log page for the May 14th 2020 log - May 15th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* I accidentally copied the version from yesterday, as my mind was lazy, and I looked for the one with the huge comment section (however I didn't move those over yet) today, I went back and corrected this after noticing the issue when exporting.
+
+• Created snapshot 2 for the update log page for the May 14th 2020 article - May 15th 2020 [FOR SNU UPDATE LOG]
+Early separate documents (Pre-February 2020)
+
+This was skipped today
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from May 14th 2020 - May 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from May 14th 2020 - May 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from May 14th 2020 - May 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from May 14th 2020 - May 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from September May 14th 2020 - May 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from May 14th 2020 - May 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from May 14th 2020 - May 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from May 14th 2020 - May 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from May 14th 2020 - May 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from May 14th 2020 - May 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from May 14th 2020 - May 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from May 14th 2020 - May 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from September May 14th 2020 - May 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from May 14th 2020 - May 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from May 14th 2020 - May 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from May 14th 2020 - May 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from May 14th 2020 - May 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from May 14th 2020 - May 15th 2020 [FOR SNU UPDATE LOG]
+
+Today was a VERY short day for development, I hope to do better tomorrow. However, I also have some big plans for the weekend, such as hard drive backups, and testing out a 10 Terabyte drive that I got for my birthday but haven't made time to use yet. I am still very worried about it, as the last time I had an external hard drive that required both USB connection to the machine, and also a power cord, it did not go well at all. I trust Western Digital over SeaGate though, as I have had 5 western digital external hard drives, some of them for over 6 years, and they have never had any issues. On the other hand, the only SeaGate drive I had (a 8 Terabyte Passport) failed within the first 5 minutes. Today was an OK day for development.
