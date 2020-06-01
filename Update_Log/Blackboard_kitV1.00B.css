@@ -1,0 +1,114 @@
+/* blackboard kit */
+/* white text for all! */
+/* the blackboard CSS file optimizes text for dark backgrounds, just like chalk on a blackboard */
+/* start of stylesheet */
+/* heading section */
+h1 {
+	color: white;
+}
+H1 {
+	color: white;
+}
+h2 {
+	color: white;
+}
+H2 {
+	color: white;
+}
+h3 {
+	color: white;
+}
+H3 {
+	color: white;
+}
+h4 {
+	color: white;
+}
+H4 {
+	color: white;
+}
+h5 {
+	color: white;
+}
+H5 {
+	color: white;
+}
+h6 {
+	color: white;
+}
+H6 {
+	color: white;
+}
+/* rich text section */
+p {
+	color: white;
+}
+P {
+	color: white;
+}
+b {
+	color: white;
+}
+B {
+	color: white;
+}
+u {
+	color: white;
+}
+U {
+	color: white;
+}
+s {
+	color: white;
+}
+S {
+	color: white;
+}
+i {
+	color: white;
+}
+I {
+	color: white;
+}
+sub {
+	color: white;
+}
+SUB {
+	color: white;
+}
+sup {
+	color: white;
+}
+SUP {
+	color: white;
+}
+}
+details {
+	color: white;
+}
+DETAILS {
+	color: white;
+/* OPTIONAL */
+/*
+a {
+	color: white;
+}
+A {
+	color: white;
+}
+*/
+/* form section */
+form {
+	color: white;
+}
+FORM {
+	color: white;
+}
+/* specialized button hyperlink section */
+a {
+	color: green;
+}
+A {
+	color: green;
+}
+/* end of stylesheet */

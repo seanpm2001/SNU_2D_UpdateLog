@@ -1,0 +1,15 @@
+<style type="text/css">
+/* The CSS text elements stylesheet */
+/* Rule count: 2 */
+details { /* Rule 1 */
+	color: yellow; /* This will make the arrow on the summary yellow, so it is easier to spot */
+	/* font-family: "None"; *//*This element does not need a font family attribute, as it does not contain text */
+} /* End of rule 1 */
+/* divider section */
+HR { /* Rule 2 */
+	color: white;
+	/* font-family: "None"; *//*This element does not need a font family attribute, as it does not contain text */
+} /* End of rule 2 */
+/* Origin: TextElementsSectionV1.css - November 25th 2019 */
+/* Stylesheet version: 2 (February 15th 2020) */
+</style>

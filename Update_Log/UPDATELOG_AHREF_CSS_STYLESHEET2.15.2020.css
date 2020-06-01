@@ -1,0 +1,43 @@
+<style type="text/css" lang="en">
+/* The hyperlink stylesheet (the <a href> </a> tag) *********/
+/* It would be nice to be able to name internal stylesheets */
+/* Default link (for basic settings, and if all else fails) */
+/* Rule count: 5 */
+a { /* Rule 1 */
+	color: blue;
+	font-family: "Times New Roman"; /* Don't switch back to Courier without reducing font size */
+	/*
+	font-size: 15px;
+	font-size: large;
+	font-size: 150%
+	*/
+	text-shadow: 0px 0px #000000;
+} /* End of rule 1 */
+/* Unvisited link */
+a:link {  /* Rule 2 */
+	color: blue;
+} /* End of rule 2 */
+/* Visited link */
+a:visited {  /* Rule 3 */
+	color: purple;
+} /* End of rule 3 */
+/* Mouse over link */
+a:hover {  /* Rule 4 */
+	color: cyan;
+} /* End of rule 4 */
+/* Selected link (mouse-hold, touch-hold) */
+a:active {  /* Rule 5 */
+	color: white;
+} /* End of rule 5 */
+/* What we need:
+* a:dead (for dead links/404 pages)
+* a:visitedhover (for hovering over visited links)
+*/
+/* Future things to experiment with
+* Sounds
+* Glowing
+* Exclusion from sidebar and top navigation bar (topbar)
+*/
+/* End of the Hyperlink stylesheet */
+/* Stylesheet version: 2 (February 15th 2020) */
+</style>

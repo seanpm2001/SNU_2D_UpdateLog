@@ -1,0 +1,19 @@
+|==================================================|
+
+ToDo URGENT 1
+
+
+<start-end::=/start.end>
+
+<|SNU Government page ideas|)
+
+	* CSS
+	* Icons
+
+<|Notes|)
+
+	* Prioritize and sort note collections
+
+</end-start::=\end.start>
+
+|==================================================|

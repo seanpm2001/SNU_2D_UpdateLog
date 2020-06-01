@@ -1,0 +1,63 @@
+<style type="text/css">
+/* CSS headings stylesheet */
+/* H1-H6, h1-h6, and the custom H06 tag */
+/* Rule count: 14 */
+H1 { /* Rule 1 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 1 */
+H2 { /* Rule 2 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 2 */
+H3 { /* Rule 3 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 3 */
+H4 { /* Rule 4 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 4 */
+H5 { /* Rule 5 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 5 */
+H6 { /* Rule 6 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 6 */
+H06 { /* Rule 7 */
+	color: black;
+	font-family: "Liberation Serif";
+} /* End of rule 7 */
+h1 { /* Rule 8 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 8 */
+h2 { /* Rule 9 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 9 */
+h3 { /* Rule 10 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 10 */
+h4 { /* Rule 11 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 11 */
+h5 { /* Rule 12 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 12 */
+h6 { /* Rule 13 */
+	color: white;
+	font-family: "Liberation Serif";
+} /* End of rule 13 */
+h06 { /* Rule 14 */
+	color: black;
+	font-family: "Liberation Serif";
+} /* End of rule 14 */
+/* Origin: HeadingSectionV1.css - November 25th 2019 */
+/* Stylesheet version: 2 (February 15th 2020) */
+</style>
