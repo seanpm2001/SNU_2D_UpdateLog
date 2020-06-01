@@ -1,0 +1,89 @@
+
+April 17th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 443)
+
+I had very little time for development today. I woke up late, and then something else took up an additional 2 hours. After my issues with Windows 10 yesterday, I have pushed the goal for a Linux laptop from December to any time I find a good one. So to prepare, I reinstalled VirtualBox, and created a Fedora 31 virtual machine. It took over an hour to install, as I only gave it 1 CPU core, and 2048 Megabytes of RAM. I am considering upping the RAM to 3072 MB or 4096 MB. I tested it out and created a snapshot. Making a VHD snapshot took too long, so I did a shutdown of the VM. I got to website work at 5:00 pm, giving me less than 30 minutes to start my work for today. It was worth it though, as I need to get back into Virtual Machines, and I had a good time with it. This was my 3rd successful Linux installation.
+Normal documentation
+
+• Updated the SNU 2D update log - April 17th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 17th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 385 for the SNU 2D update log - April 17th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 385 for the SNU 2D developer log - April 17th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 17th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 30 new versions added
+
+• Created snapshot 266 for the resource version index - April 17th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 17th 2020 log - April 17th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 17th 2020 article - April 17th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 17th 2020 log - April 17th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 17th 2020 article - April 17th 2020 [FOR SNU DEVELOPER LOG]
+SNU Video
+
+• Updated the SNU Video Player testing page - April 17th 2020 [FOR SNU VIDEO]
+
+Changes:
+
+* Another major subtitle update
+
+* Began scripting for video resolution and framerate options
+
+• Created snapshot 7 of the SNU Video player page - April 17th 2020 [FOR SNU VIDEO]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 16th 2020 - April 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 16th 2020 - April 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 16th 2020 - April 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 16th 2020 - April 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 16th 2020 - April 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 16th 2020 - April 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 16th 2020 - April 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 16th 2020 - April 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 16th 2020 - April 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 16th 2020 - April 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 16th 2020 - April 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 16th 2020 - April 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 16th 2020 - April 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 16th 2020 - April 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 16th 2020 - April 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 16th 2020 - April 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 16th 2020 - April 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 16th 2020 - April 17th 2020 [FOR SNU UPDATE LOG]
+
+Today I did a documentation update, with changes to the SNU video player. I am going to continue to work on the video player on days where I don't have as much time. It is an important component, and I am making progress on it. Today wasn't the best day for development, but preparing for Linux is going to help me greatly in the future.

@@ -1,0 +1,120 @@
+April 14th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 440)
+
+I had a bad day today, and I wasn't able to do as much as I wanted. It feels like the school is making a bomb threat at me, they have only given me 2 assignments this week, and during Spring Break, they made a phone call, saying if I didn't get online and do work, I wouldn't graduate, even though there was no new work that week. I also had horrible focusing issues, only getting to work on my website past 3:30 pm (despite waking up much earlier) just like the slightly distant unproductive era, which I do not want to go through again.
+Normal documentation
+
+• Updated the SNU 2D update log - April 14th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 14th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 382 for the SNU 2D update log - April 14th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 382 for the SNU 2D developer log - April 14th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 14th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 42 new versions added
+
+• Created snapshot 263 for the resource version index - April 14th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 14th 2020 log - April 14th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 14th 2020 article - April 14th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 14th 2020 log - April 14th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 14th 2020 article - April 14th 2020 [FOR SNU DEVELOPER LOG]
+SNU Internet Front
+
+• Created the homepage for the SNU Internet Front - April 14th 2020 [FOR SNU INTERNET FRONT]
+
+• Created snapshot 1 for the homepage of the SNU Internet Front - April 14th 2020 [FOR SNU INTERNET FRONT]
+
+• Created the first article for the SNUIE: an article about paywalls and why they should be removed "tear down this paywall" - April 14th 2020 [FOR SNU INTERNET FRONT]
+
+• Created snapshot 1 for the anti-paywall SNUIE article - April 14th 2020 [FOR SNU INTERNET FRONT]
+SNU Video
+
+• Updated the SNU Video player - April 14th 2020 [FOR SNU VIDEO]
+
+Changes:
+
+* "Backend" (the part that isn't showing) language work, adding in support for more languages before I get subtitles to show up again.
+
+• Created snapshot 4 for the SNU Video player - April 14th 2020 [FOR SNU VIDEO]
+SNU Internet Museum
+
+• Updated the main Internet Museum lobby page - April 14th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* New business, organizations, and foundations section
+
+• Created snapshot 8 for the SNU Internet Museum lobby page - April 14th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the Vinesauce Internet Museum page - April 14th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* Added in a video that was missing
+
+• Created snapshot 4 for the Vinesauce Internet Museum page - April 14th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for the Agent 327 Blender movie - April 14th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for the Agent 327 Blender Movie - April 14th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for the YTP Good.wmv Vinesauce video - April 14th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Vinesauce: YTP Good.wmv - April 14th 2020 [FOR SNU INTERNET MUSEUM]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 13th 2020 - April 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 13th 2020 - April 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 13th 2020 - April 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 13th 2020 - April 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 13th 2020 - April 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 13th 2020 - April 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 13th 2020 - April 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 13th 2020 - April 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 13th 2020 - April 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 13th 2020 - April 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 13th 2020 - April 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 13th 2020 - April 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 13th 2020 - April 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 13th 2020 - April 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 13th 2020 - April 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 13th 2020 - April 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 13th 2020 - April 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 13th 2020 - April 14th 2020 [FOR SNU UPDATE LOG]
+
+Today, I didn't have time to work on the COVID-19 article, or make a full Internet Museum update like I wanted, but I did produce a major feature: which is the SNU Internet Front, a movement to protect the Internet. I will be working alongside Mozilla, EFF (Electronic Frontiers Foundation), and other organizations that support Internet rights. I did the usual documentation changes, and made a small to the SNU Internet Museum, and a captions update for the SNU video player. Today wasn't the best day for development, I hope I can improve.

@@ -1,0 +1,105 @@
+
+April 16th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 442)
+
+Today was a horrible day for work. I thought I would be able to last with Windows 10 until Christmas, but today, Windows 10 pulled the last straw. Upon logging in, I got the malicious prompt (that fakes a Windows setup environment) trying to get me to create a Microsoft account, meanwhie reminding me even further why that is not a good idea by regrouping my downloads folder for the ~200th time. Later on while doing schoolwork, programs began freezing, CPU usage went up high, everything stuttered and became unresponsive. I had to deal with this for over an hour. I have never had a computer malfunction this badly before. Later, while watching a video, the entire system froze, and I got a "system unresponsive" message. I had 2 waves of this, and then after all of that, it wanted me to do an update. This is it, the final straw. I am going to work even harder on finding a good Linux laptop now. This whole ordeal set me back 2 hours today.
+Normal documentation
+
+• Updated the SNU 2D update log - April 16th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 16th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 384 for the SNU 2D update log - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 384 for the SNU 2D developer log - April 16th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 16th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 39 new versions added
+
+• Created snapshot 265 for the resource version index - April 16th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 16th 2020 log - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 16th 2020 article - April 16th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 16th 2020 log - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 16th 2020 article - April 16th 2020 [FOR SNU DEVELOPER LOG]
+SNU Video
+
+• Updated the SNU Video Player testing page - April 16th 2020 [FOR SNU VIDEO]
+
+Changes:
+
+* Another major subtitle update
+
+• Created snapshot 6 of the SNU Video player page - April 16th 2020 [FOR SNU VIDEO]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 15th 2020 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 15th 2020 - April 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 15th 2020 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 15th 2020 - April 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 15th 2020 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 15th 2020 - April 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 15th 2020 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 15th 2020 - April 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 15th 2020 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 15th 2020 - April 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 15th 2020 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 15th 2020 - April 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 15th 2020 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 15th 2020 - April 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 15th 2020 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 15th 2020 - April 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 15th 2020 - April 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 15th 2020 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from Week 63 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from Week 63 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from Week 63 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from Week 63 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from Week 63 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from Week 63 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from Week 63 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from Week 63 - April 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ZIP version of the 8 developer log exports from Week 63 - April 16th 2020 [FOR SNU DEV LOG]
+
+Today, I worked on schoolwork, and finished a personal photography project that lasted 19 days. I woke up later, and with the whole Windows 10 trying to murder my computer earlier, I had very little time for website work. I mainly did a documentation update, with a basic update to the SNU video player, adding in more languages. That is all I could do. I hope to improve this situation. Today wasn't a good day for development.

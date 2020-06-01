@@ -1,0 +1,167 @@
+April 20th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 446)
+
+I planned a lot to do last night, but only got to some parts of it. I had a really rough day today, I ran out of one of my medications, and had constant existential crisises, panic attacks, and severe jaw pain. I later got a replacement, and I got better. I prepared so much last night, unfortunately, I will have to do it tomorrow.
+Normal documentation
+
+• Updated the SNU 2D update log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 20th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 388 for the SNU 2D update log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 388 for the SNU 2D developer log - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 20th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 70 new versions added
+
+• Created snapshot 269 for the resource version index - April 20th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 20th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 20th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 20th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 20th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+SNU Video
+
+• Updated the SNU Video Player testing page - April 20th 2020 [FOR SNU VIDEO]
+
+Changes:
+
+* Added more settings
+
+• Created snapshot 10 of the SNU Video player page - April 20th 2020 [FOR SNU VIDEO]
+Early separate documents (Pre-March 2020)
+
+• Created a separate update log page for the February 8th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the February 8th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the February 8th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the February 8th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate update log page for the February 7th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the February 7th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the February 7th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the February 7th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate update log page for the February 6th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the February 6th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the February 6th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the February 6th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate update log page for the February 5th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the February 5th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the February 5th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the February 5th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate update log page for the February 4th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the February 4th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the February 4th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the February 4th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate update log page for the February 3rd 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the February 3rd 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the February 3rd 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the February 3rd 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate update log page for the February 2nd 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the February 2nd 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the February 2nd 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the February 2nd 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate update log page for the February 1st 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the February 1st 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the February 1st 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the February 1st 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate update log page for the February 0th 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the February 0th 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the January 31st 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the January 31st 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate update log page for the January 31st 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the January 31st 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the January 31st 2020 log - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the January 31st 2020 article - April 20th 2020 [FOR SNU DEVELOPER LOG]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 19th 2020 - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 19th 2020 - April 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 19th 2020 - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 19th 2020 - April 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 19th 2020 - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 19th 2020 - April 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 19th 2020 - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 19th 2020 - April 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 19th 2020 - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 19th 2020 - April 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 19th 2020 - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 19th 2020 - April 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 19th 2020 - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 19th 2020 - April 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 19th 2020 - April 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 19th 2020 - April 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 19th 2020 - April 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 19th 2020 - April 20th 2020 [FOR SNU UPDATE LOG]
+
+Today, I continued with day 3 of separate update log and developer log entry pages. I also did documentation, and implemented several video player options I had plans to add in last night. Today wasn't a very good day for development, I still pushed myself to get something done. I hope to work on the other projects tomorrow.
