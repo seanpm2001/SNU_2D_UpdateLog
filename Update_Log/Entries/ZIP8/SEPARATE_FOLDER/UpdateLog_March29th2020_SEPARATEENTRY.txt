@@ -1,0 +1,91 @@
+March 29th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 424)
+
+I created a smaller update today. Originally, I planned on updating CardStack today, but I really didn't feel up to it, and I didn't have the time either. I worked on a new setting today for the digital cursor, and also created a news center with 1 starter article. I also did documenttion, but tht is pretty much it for the day. I hope tomorrow can go better, but I also have more online schoolwork starting either tomorrow, or some other time this week. My motivation for this project has been down for a while, but I will not abandon it at this point.
+Normal documentation
+
+• Updated the SNU 2D update log - March 29th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 29th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 366 for the SNU 2D update log - March 29th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 366 for the SNU 2D developer log - March 29th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 29th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 34 new versions added
+
+• Created snapshot 247 for the resource version index - March 29th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 29th 2020 log - March 29th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 29th 2020 article - March 29th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 29th 2020 log - March 29th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 29th 2020 article - March 29th 2020 [FOR SNU DEVELOPER LOG]
+Cursor settings
+
+• Created a page for SNU Cursor settings - March 29th 2020 [FOR SNU CURSOR SETTINGS]
+
+• Created snapshot 1 for the SNU Cursor settings page - March 29th 2020 [FOR SNU CURSOR SETTINGS]
+SNU News articles
+
+• Created the first article for the SNU News center, which is about Internet Service Providers during their first major crisis - March 29th 2020 [FOR SNU NEWS]
+
+• Created snapshot 1 for the Internet Service Providers in their first major crisis article - March 29th 2020 [FOR SNU NEWS]
+
+• Created the homepage for the SNU News center - March 29th 2020 [FOR SNU NEWS]
+
+• Created snapshot 1 for the SNU News center homepage - March 29th 2020 [FOR SNU NEWS]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 28th 2020 - March 29th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 28th 2020 - March 29th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 28th 2020 - March 29th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 28th 2020 - March 29th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 28th 2020 - March 29th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 28th 2020 - March 29th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 28th 2020 - March 29th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 28th 2020 - March 29th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 28th 2020 - March 29th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 28th 2020 - March 29th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 28th 2020 - March 29th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 28th 2020 - March 29th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 28th 2020 - March 29th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 28th 2020 - March 29th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 28th 2020 - March 29th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 28th 2020 - March 29th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from March 28th 2020 - March 29th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from March 28th 2020 - March 29th 2020 [FOR SNU UPDATE LOG]
+
+The SNU Update log has become massively bloated, and I have an experimental idea for a fix to the issue, which is to create a separate update log with all comments over 50 bytes removed, since I can't remove them from the current version due to a rule I made. The update log is over 3 megabytes in size now, and it has been lagging more and more lately. Today was a short day for development.

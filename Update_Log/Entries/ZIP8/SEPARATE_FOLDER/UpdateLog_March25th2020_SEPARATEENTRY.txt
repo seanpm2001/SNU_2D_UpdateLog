@@ -1,0 +1,87 @@
+March 25th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 420)
+Developer log weekly summary: view it here (developer log week 60)
+
+I had a much smaller work day today. I woke up later, and I didn't have as much time. I also need a day to recover from yesterday. Today, most changes were done to documentation, and only 1 new thing was added, which was a new idea for a mode I came up with this morning. I should be making more updates again tomorrow other than documentation.
+Normal documentation
+
+• Updated the SNU 2D update log - March 25th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 25th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 362 for the SNU 2D update log - March 25th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 362 for the SNU 2D developer log - March 25th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 25th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 28 new versions added
+
+* Added support for future 3.07 and 3.08 updates
+
+* Updated snapshot section
+
+• Created snapshot 242 for the resource version index - March 25th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 25th 2020 log - March 25th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 25th 2020 article - March 25th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 25th 2020 log - March 25th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 25th 2020 article - March 25th 2020 [FOR SNU DEVELOPER LOG]
+Hotel mode settings
+
+• Created a page for Hotel Mode settings - March 25th 2020 [FOR SNU HOTEL MODE]
+
+Note:
+
+* This originally was going to be on the ideaboard, but it was implemented before I added it threre
+
+• Created snapshot 1 for the Hotel mode settings page - March 25th 2020 [FOR SNU HOTEL MODE]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 24th 2020 - March 25th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 24th 2020 - March 25th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 24th 2020 - March 25th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 24th 2020 - March 25th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 24th 2020 - March 25th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 24th 2020 - March 25th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 24th 2020 - March 25th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 24th 2020 - March 25th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 24th 2020 - March 25th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 24th 2020 - March 25th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 24th 2020 - March 25th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 24th 2020 - March 25th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 24th 2020 - March 25th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 24th 2020 - March 25th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 24th 2020 - March 25th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 24th 2020 - March 25th 2020 [FOR SNU DEV LOG]
+
+I was also a little tired while working today. The version history page has received a major update today, with a fully functional 600 snapshot section, and starter support for SNU 3.07 and 3.08, so that it is prepared. Not too much was done today, I really hope to improve this tomorrow. it was still a decent update day.
