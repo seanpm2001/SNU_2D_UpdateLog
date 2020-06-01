@@ -1,0 +1,111 @@
+
+April 12th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 438)
+
+I took an extra hour off today, so I could spend more time with my family. I did update the site, I had a lot more planned, but I couldn't get to everything. I updated documentation, and tested WebVTT. Unfortunately, the video issue is fixed, but now subtitles don't work due to a "security" issue. I will need to do more research on this. Along with this, I continued to update the Greylist, and the COVID-19 disease research article.
+Normal documentation
+
+• Updated the SNU 2D update log - April 12th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 12th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 380 for the SNU 2D update log - April 12th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 380 for the SNU 2D developer log - April 12th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 12th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 34 new versions added
+
+• Created snapshot 261 for the resource version index - April 12th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 12th 2020 log - April 12th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 12th 2020 article - April 12th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 12th 2020 log - April 12th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 12th 2020 article - April 12th 2020 [FOR SNU DEVELOPER LOG]
+SNU Subtitle test
+
+• Updated the VTT caption test page - April 12th 2020 [FOR SNU ACCESSIBILITY/CAPTIONS]
+
+Changes:
+
+* Fixed the WebGL issue, the video loads, but the subtitles are displaying a security issue
+
+* Updated page syntax and snapshot section
+
+• Created snapshot 3 for the VTT caption test page - April 12th 2020 [FOR SNU ACCESSIBILITY/CAPTIONS]/
+SNU Committee
+
+• Updated the Developer Greylist page - April 12th 2020 [FOR SNU COMMITTEE]
+
+Changes:
+
+* More companies added to the list
+
+* Description updated
+
+• Created snapshot 3 for the Developer Greylist page - April 12th 2020 [FOR SNU COMMITTEE]
+SNU Disease Research Center
+
+• Updated the research article on Coronavirus/COVID-19 - April 12th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+Changes:
+
+* Added new data
+
+* Updated the sources to organize them better
+
+• Created snapshot 7 for the CoronaVirus/COVID-10 article - April 12th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 11th 2020 - April 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 11th 2020 - April 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 11th 2020 - April 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 11th 2020 - April 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 11th 2020 - April 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 11th 2020 - April 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 11th 2020 - April 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 11th 2020 - April 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 11th 2020 - April 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 11th 2020 - April 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 11th 2020 - April 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 11th 2020 - April 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 11th 2020 - April 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 11th 2020 - April 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 11th 2020 - April 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 11th 2020 - April 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 11th 2020 - April 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 11th 2020 - April 12th 2020 [FOR SNU UPDATE LOG]
+
+I was planning on doing an Internet Museum update today as well, but I decided it was best not to, so I could have more time for other projects. I wouldn't have the time for it today anyway. My next goal with it is to make video pages for all videos. I also planned syntax updates to each page. I had a short day for development, not much was done. I should have more time tomorrow.

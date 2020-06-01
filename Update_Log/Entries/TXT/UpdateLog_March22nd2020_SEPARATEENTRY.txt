@@ -1,0 +1,79 @@
+
+March 22nd 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 417)
+
+I messed up my schedule, and ended up having less work time today. Some things were held off, but I still did some other things with time that will benefit me and the website, mainly research and freeing up other projects. I started work on a new electronic online school part of the site, as my goal to create a better online school system, so that we can finally ditch Google Classroom after 5 painful years of another part of the Google monopoly. This school system will be privacy oriented, unlike Google products, and like the rest of SNU. I am still piecing together how it will work and feel.
+Normal documentation
+
+• Updated the SNU 2D update log - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 22nd 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 359 for the SNU 2D update log - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 359 for the SNU 2D developer log - March 22nd 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 22nd 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 28 new versions added
+
+• Created snapshot 239 for the resource version index - March 22nd 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 22nd 2020 log - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 22nd 2020 article - March 22nd 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 22nd 2020 log - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 22nd 2020 article - March 22nd 2020 [FOR SNU DEVELOPER LOG]
+SNU eSchool
+
+• Created the homepage for the SNU eSchool center - March 22nd 2020 [FOR SNU ONLINE SCHOOL]
+
+• Created snapshot 1 for the homepage for the SNU eSchool center - March 22nd 2020 [FOR SNU ONLINE SCHOOL]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 21st 2020 - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 21st 2020 - March 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 21st 2020 - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 21st 2020 - March 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 21st 2020 - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 21st 2020 - March 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 21st 2020 - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 21st 2020 - March 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 21st 2020 - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 21st 2020 - March 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 21st 2020 - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 21st 2020 - March 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 21st 2020 - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 21st 2020 - March 22nd 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 21st 2020 - March 22nd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 21st 2020 - March 22nd 2020 [FOR SNU DEV LOG]
+
+I have also been spending some time with the new dog I am going to foster for the next 2 months. His name is Cobie, and he hasn't been adopted since February, since no-one wants to train him not to pull too hard on his leash. He is a really nice dog, and I enjoy taking care of him. I haven't had a big dog in several years, so it is different than taking care of small dogs. He inspired me to start working on the CompuSmell project again, as he loves sniffing everything, more than any dog I have ever seen. I just don't know yet how it will work. Today, other than the online school project, I just worked on documentation, and that is it for today.

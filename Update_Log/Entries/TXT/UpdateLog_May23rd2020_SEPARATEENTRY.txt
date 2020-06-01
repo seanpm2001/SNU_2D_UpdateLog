@@ -1,0 +1,77 @@
+May 23rd 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 479)
+
+Unfortunately, I had to cancel development again today. I had very little time, and I am just not that interested in site development at the moment. I did basic documentation, but that is it. Some small optimizations were made today, such as size reduction of the update log.
+Normal documentation
+
+• Updated the SNU 2D update log - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - May 23rd 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 421 for the SNU 2D update log - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 421 for the SNU 2D developer log - May 23rd 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - May 23rd 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 28 new versions added
+
+• Created snapshot 302 for the resource version index - May 23rd 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the May 23rd 2020 log - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the May 23rd 2020 article - May 23rd 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the May 23rd 2020 log - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the May 23rd 2020 article - May 23rd 2020 [FOR SNU DEVELOPER LOG]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from May 22nd 2020 - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from May 22nd 2020 - May 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from May 22nd 2020 - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from May 22nd 2020 - May 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from September May 22nd 2020 - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from May 22nd 2020 - May 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from May 22nd 2020 - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from May 22nd 2020 - May 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from May 22nd 2020 - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from May 22nd 2020 - May 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from May 22nd 2020 - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from May 22nd 2020 - May 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from September May 22nd 2020 - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from May 22nd 2020 - May 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from May 22nd 2020 - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from May 22nd 2020 - May 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from May 22nd 2020 - May 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from May 22nd 2020 - May 23rd 2020 [FOR SNU UPDATE LOG]
+
+I had some things I wanted to do today, but I didn't have the time and resources for it. Some other important projects were done today, such as music archival, hard drive backup, getting outside to enjoy the sunlight (but not leaving the property) and just taking a load off, and preparing my steps for after high school. If I had more time, I would have worked on the website today, but I just didn't have the time.

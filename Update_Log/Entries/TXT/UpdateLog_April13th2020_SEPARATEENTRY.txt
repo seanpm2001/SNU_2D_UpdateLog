@@ -1,0 +1,180 @@
+April 13th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 439)
+
+I had a successful day with development. I accomplished many small tasks, but failed on some. I did a small update to the Greylist to fix a major loophole for companies that I haven't added to the list. I also updated the privacy initiative homepage to include support for new articles, a mission section, and a new Favicon. I did documentation (as usual) and I also did a cluster of updates to the SNU Internet Museum, getting 4 pages up-to-date, and creating 4 new separate video pages. One of the 2 things I failed on today, was getting the official SNU video player to have support for Subtitles (just for the labels to show up) but I wasn't even able to accomplish that. Also, In the end, I didn't have enough time to make a proper update to the COVID-19 article.
+Normal documentation
+
+• Updated the SNU 2D update log - April 13th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 13th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 381 for the SNU 2D update log - April 13th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 381 for the SNU 2D developer log - April 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 13th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 52 new versions added
+
+• Created snapshot 262 for the resource version index - April 13th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 13th 2020 log - April 13th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 13th 2020 article - April 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 13th 2020 log - April 13th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 13th 2020 article - April 13th 2020 [FOR SNU DEVELOPER LOG]
+SNU Privacy Initiative
+
+• Updated the SNU Privacy Initiative homepage - April 13th 2020 [FOR SNU PRIVACY INI]
+
+Changes:
+
+* New Favicon added (an eye with a crack in it, this is meant to symbolize cracking down on mass surveillance through public awareness and action, this is one of the major goals of the initiative)
+
+* Added links to newer articles
+
+* Syntax updates
+
+• Created snapshot 4 for the SNU Privacy Initiative homepage - April 13th 2020 [FOR SNU PRIVACY INI]
+SNU Video
+
+• Updated the video player page for SNU - April 13th 2020 [FOR SNU VIDEO]
+
+Changes:
+
+* Added links to tests being done to make the video player
+
+* Added subtitle support in over 50 languages
+
+• Created snapshot 3 for the SNU Video player page - April 13th 2020 [FOR SNU VIDEO]
+SNU Committee
+
+• Updated the Developer Greylist page - April 13th 2020 [FOR SNU COMMITTEE]
+
+Changes:
+
+* Description updated
+
+• Created snapshot 4 for the Developer Greylist page - April 13th 2020 [FOR SNU COMMITTEE]
+SNU Disease Research Center
+
+• Updated the research article on Coronavirus/COVID-19 - April 13th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+Changes:
+
+* Added new data
+
+* Updated the sources to organize them better, fixing a bug that was introduced last night (that I ran out of time to fix)
+
+• Created snapshot 8 for the CoronaVirus/COVID-10 article - April 13th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+SNU Internet Museum
+
+• Updated the Vinesauce Museum homepage - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* Updated page syntax
+
+* Added in sources
+
+• Created snapshot 3 for the Vinesauce Museum homepage - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for the Vinesauce Windows XP destruction stream - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the Vinesauce Windows XP Destruction stream video page - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the Blender Museum homepage - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* Updated page syntax
+
+* Added in sources
+
+• Created snapshot 3 for the Blender Museum homepage - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for the Blender Big Buck Bunny video - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the Blender: Big Buck Bunny video page - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the Tumblr Museum homepage - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* Updated page syntax
+
+* Added in sources
+
+• Created snapshot 3 for the Tumblr Museum homepage - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for the Internet Historian: Tumblr/Dashcon video - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the Internet Historian: Tumblr/Dashcin video - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the Twitter Museum homepage - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* Updated page syntax
+
+* Added in sources
+
+• Created snapshot 4 for the Twitter Museum homepage - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for the Internet Historian: Twitter/Tony the Tiger video - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the Internet Historian: Twitter/Tony the Tiger video - April 13th 2020 [FOR SNU INTERNET MUSEUM]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 12th 2020 - April 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 12th 2020 - April 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 12th 2020 - April 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 12th 2020 - April 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 12th 2020 - April 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 12th 2020 - April 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 12th 2020 - April 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 12th 2020 - April 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 12th 2020 - April 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 12th 2020 - April 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 12th 2020 - April 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 12th 2020 - April 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 12th 2020 - April 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 12th 2020 - April 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 12th 2020 - April 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 12th 2020 - April 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 12th 2020 - April 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 12th 2020 - April 13th 2020 [FOR SNU UPDATE LOG]
+
+For the subtitle issue, I am hoping it doesn't take me another month or longer to find out why the dropdown isn't showing up in the video player. I have some work to do to the subtitles, a well as adding new ones. I am also going to produce a better test video. I didn't receive that much online work today, and development went smoothly. I was able to get some work done, making it a decent day for development.
+
+Add a bottom description here

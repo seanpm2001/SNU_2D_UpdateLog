@@ -1,0 +1,175 @@
+March 13th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 408)
+
+I was home sick again today. I worked on multiple projects today, including another monthly update for my audio index project. I started planning out the next plans for SNU today, while I got caught up on exporting all update log and developer log entries since February 29th 2020 into 8 formats (the newer 4 formats I have been working on exporting are: DOC, DOCX, UOT, RTF) that was finally wrapped up today, and I didn't have time for anything else.
+Normal documentation
+
+• Updated the SNU 2D update log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 13th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 350 for the SNU 2D update log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 350 for the SNU 2D developer log - March 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 13th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 75 new versions added
+
+• Created snapshot 231 for the resource version index - March 13th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 13th 2020 log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 13th 2020 article - March 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 13th 2020 log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 13th 2020 article - March 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate update log page for the March 2nd 2020 log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Updated the separate developer log page for the March 2nd 2020 article - March 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 2 for the separate update log page for the March 2nd 2020 log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 2 for the separate developer log page for the March 2nd 2020 article - March 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate update log page for the March 3rd 2020 log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Updated the separate developer log page for the March 3rd 2020 article - March 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 2 for the separate update log page for the March 3rd 2020 log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 2 for the separate developer log page for the March 3rd 2020 article - March 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate update log page for the March 4th 2020 log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Updated the separate developer log page for the March 4th 2020 article - March 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 2 for the separate update log page for the March 4th 2020 log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 2 for the separate developer log page for the March 4th 2020 article - March 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate update log page for the March 5th 2020 log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Updated the separate developer log page for the March 5th 2020 article - March 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 2 for the separate update log page for the March 5th 2020 log - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 2 for the separate developer log page for the March 5th 2020 article - March 13th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 2 for the SNU update log March 12th 2020 article - March 13th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Snapshot number fixes
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 12th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 12th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 12th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 12th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 12th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 12th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 12th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 12th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 12th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 12th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 12th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 12th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 12th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 12th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 12th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 12th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 2nd 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 2nd 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 2nd 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 2nd 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 2nd 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 2nd 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 2nd 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 2nd 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 3rd 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 3rd 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 3rd 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 3rd 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 3rd 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 3rd 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 3rd 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 3rd 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 4th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 4th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 4th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 4th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 4th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 4th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 4th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 4th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 5th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 5th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 5th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 5th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 5th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 5th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 5th 2020 - March 13th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 5th 2020 - March 13th 2020 [FOR SNU DEV LOG]
+
+I am going to update my system to Windows 10 1909 soon. I am doing research to ensure it is safe, and seeing if it will break anything any further first. I am hoping this update will be the last one, as I still plan on moving to Linux ASAP. I just have to wait for the next laptop first. Today, I did a very small website update, but I have some upcoming plans for future updates again. Today was just a documentation update day.

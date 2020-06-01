@@ -1,0 +1,126 @@
+March 30th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 425)
+
+I have had really bad time management lately, and it was difficult getting to work today. When I got to work, I came up with some stuff to do. I did a lot today with the time I had. I worked on documentation (as usual) a brief update to the SNU News system, a massive update to the SNU Internet Museum, getting the system ready to get all the old content back, and a syntax maintenance update to the original SNU internet legends page.
+Normal documentation
+
+• Updated the SNU 2D update log - March 30th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 30th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 367 for the SNU 2D update log - March 30th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 367 for the SNU 2D developer log - March 30th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 30th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 46 new versions added
+
+• Created snapshot 248 for the resource version index - March 30th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 30th 2020 log - March 30th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 30th 2020 article - March 30th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 30th 2020 log - March 30th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 30th 2020 article - March 30th 2020 [FOR SNU DEVELOPER LOG]
+SNU News
+
+• Updated the homepage for the SNU News center - March 30th 2020 [FOR SNU NEWS]
+
+• Created snapshot 2 for the SNU News center homepage - March 30th 2020 [FOR SNU NEWS]
+SNU Internet Museum
+
+• Created a page for Twitter - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the Twitter museum - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a page for 4chan - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the 4chan museum - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a page for Tumblr - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the Tumblr museum - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a page for SocialNetworkUltimate - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the SocialNetworkUltimate museum - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a page for Valve - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the Valve museum - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a page for Blender - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the Blender museum - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a page for Vinesauce - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the Vinesauce museum - March 30th 2020 [FOR SNU INTERNET MUSEUM]
+[OLD] SNU Legends of the Internet
+
+• Created a legacy maintenance update for the SNU Legends of the internet homepage - March 30th 2020 [FOR SNU LEGENDS OF THE INTERNET]
+
+Changes:
+
+I decided to create a legacy update to this page today, the first one in over 5 months. This update will only change the syntax, and will not affect the page visually that much (other than some small modifications)
+
+* Syntax update
+
+* Updated the snapshot section
+
+* Changed the indent style from Windows (Carriage Return) (Line Feed) to UNIX (Line Feed)
+
+• Created snapshot 5 for the SNU Legends of the Internet homepage - March 30th 2020 [FOR SNU LEGENDS OF THE INTERNET]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 29th 2020 - March 30th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 29th 2020 - March 30th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 29th 2020 - March 30th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 29th 2020 - March 30th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 29th 2020 - March 30th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 29th 2020 - March 30th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 29th 2020 - March 30th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 29th 2020 - March 30th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 29th 2020 - March 30th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 29th 2020 - March 30th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 29th 2020 - March 30th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 29th 2020 - March 30th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 29th 2020 - March 30th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 29th 2020 - March 30th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 29th 2020 - March 30th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 29th 2020 - March 30th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from March 29th 2020 - March 30th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from March 29th 2020 - March 30th 2020 [FOR SNU UPDATE LOG]
+
+I was a bit nauseous when I started working, but it got better overtime. I will continue work on the Internet Museum tomorrow, as there isn't much else for me to do at the moment. I originally was just going to do a documentation only update today, but I was able to do more than that in the end. I am hoping to get some outside help on the site soon, as I am resorting to modifying older pages again.

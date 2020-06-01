@@ -1,0 +1,94 @@
+
+March 16th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 411)
+
+I continued work on language features again today. I have failed to bring this up for a while now, but SNU is starting to get really cluttered, and more difficult to work with. I started out with a short todo list in December of 2019, and now I have 3 ToDo lists (they are comments in the source code of the update log) they started small, but now it is an extra 8+ kilobytes and over 200 lines a day, and the majority of it is going unfulfilled. I am working on the issue now, and will try to find a way to better sort this info.
+Normal documentation
+
+• Updated the SNU 2D update log - March 16th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 16th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 353 for the SNU 2D update log - March 16th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 353 for the SNU 2D developer log - March 16th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 16th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 32 new versions added
+
+• Created snapshot 234 for the resource version index - March 16th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 16th 2020 log - March 16th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 16th 2020 article - March 16th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 16th 2020 log - March 16th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 16th 2020 article - March 16th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate update log page for the March 15th 2020 log - March 16th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added in the missing article
+
+* Very minor snapshot section update
+
+• Created snapshot 2 for the separate update log page for the March 15th 2020 log - March 16th 2020 [FOR SNU UPDATE LOG]
+SNU Translation tool
+
+• Updated the homepage for the SNU Translation tool - March 16th 2020 [FOR SNU TRANSLATE]
+
+• Created snapshot 2 for the SNU Translation tool homepage - March 16th 2020 [FOR SNU TRANSLATE]
+HTML Test References
+
+• Updated the ISO lang attribute page - March 16th 2020 [FOR SNU HTML TEST REFERENCES]
+
+• Created snapshot 2 for the ISO lang attribute page - March 16th 2020 [FOR SNU HTML TEST REFERENCES]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 15th 2020 - March 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 15th 2020 - March 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 15th 2020 - March 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 15th 2020 - March 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 15th 2020 - March 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 15th 2020 - March 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 15th 2020 - March 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 15th 2020 - March 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 15th 2020 - March 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 15th 2020 - March 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 15th 2020 - March 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 15th 2020 - March 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 15th 2020 - March 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 15th 2020 - March 16th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 15th 2020 - March 16th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 15th 2020 - March 16th 2020 [FOR SNU DEV LOG]
+
+Today I worked on the new translation service again, along with an HTML test reference page of the ISO language codes. I also did the usual documentation changes, and got a little done. Development is a little slow at the moment, I am working out my schedule, and working on many projects. I have 6 weeks off from school now due to the COVID-19 outbreak, and I just solved a technical issue that altered my performance at school. Today was a decent day for development, but I just need more to do.

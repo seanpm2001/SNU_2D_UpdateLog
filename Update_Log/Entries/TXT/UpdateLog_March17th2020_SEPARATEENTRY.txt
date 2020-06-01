@@ -1,0 +1,78 @@
+March 17th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 412)
+
+I didn't have as much time today, and I am halfway operational, so I made a small update today. I woke up late, started playing late, and had an appointment in the middle of the day, and I decided to relax for 3 hours afterwards. I am also trying to go to bed earlier, so I only had an hour to work today. I didn't want to end my update streak.
+Normal documentation
+
+• Updated the SNU 2D update log - March 17th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 17th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 354 for the SNU 2D update log - March 17th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 354 for the SNU 2D developer log - March 17th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 17th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 28 new versions added
+
+• Created snapshot 235 for the resource version index - March 17th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 17th 2020 log - March 17th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 17th 2020 article - March 17th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 17th 2020 log - March 17th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 17th 2020 article - March 17th 2020 [FOR SNU DEVELOPER LOG]
+SNU Translation tool
+
+• Updated the homepage for the SNU Translation tool - March 16th 2020 [FOR SNU TRANSLATE]
+
+• Created snapshot 2 for the SNU Translation tool homepage - March 16th 2020 [FOR SNU TRANSLATE]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 16th 2020 - March 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 16th 2020 - March 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 16th 2020 - March 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 16th 2020 - March 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 16th 2020 - March 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 16th 2020 - March 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 16th 2020 - March 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 16th 2020 - March 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 16th 2020 - March 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 16th 2020 - March 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 16th 2020 - March 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 16th 2020 - March 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 16th 2020 - March 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 16th 2020 - March 17th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 16th 2020 - March 17th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 16th 2020 - March 17th 2020 [FOR SNU DEV LOG]
+
+I have been planning on doing something witb the tel: attribute at some point, but I am trying to figure out how everything works. Today, I didn't have as much time to update, so I mainly worked on documentation, with a small update to the translation service homepage. Hopefully tomorrow will go better.

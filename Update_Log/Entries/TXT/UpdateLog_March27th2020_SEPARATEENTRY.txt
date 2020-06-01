@@ -1,0 +1,142 @@
+March 27th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 422)
+
+I wasn't feeling too up to an update today at first, but I still put one out. Over half of the commits were documentation related again, but today I decided to work on modernizing the old Internet Museum, and I started with the entrance and home pages. These pages haven't been updated since SNU 3.05, over 5-6 months ago. They carry old characreristics, such as the old, unchanged default Windows (CR) (LF) indentation, and the poor syntax (but not the basic 1993 HTML syntax, that hasn't been a thing for almost a whole year now, as I use a template now, and I know many more HTML tags than when I started (over 40x more) along with CSS and JS)
+Normal documentation
+
+• Updated the SNU 2D update log - March 27th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 27th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 364 for the SNU 2D update log - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 364 for the SNU 2D developer log - March 27th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 27th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 47 new versions added
+
+• Created snapshot 244 for the resource version index - March 27th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 27th 2020 log - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 27th 2020 article - March 27th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 27th 2020 log - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 27th 2020 article - March 27th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the March 25th 2020 developer log article to fix the extension of the zip download - March 27th 2020 [FOR SNU DEV LOG]
+
+• Created snapshot 2 for the March 25th developer log article - March 27th 2020 [FOR SNU DEV LOG]
+SNU Internet Museum
+
+• Updated the SNU internet museum lobby to modernize the page and begin new updates to it - March 27th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+First update in over 5 months, welcome back
+
+* Changed the indent style from Windows (CR) (LF) to UNIX (LF)
+
+* Modernized the page syntax
+
+* Added a topbar
+
+* Added a sidebar
+
+* Updated the CSS
+
+• Created snapshot 6 for the SNU Internet Museum Lobby page - March 27th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created the site emulation index page - March 27th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the site emulation index page - March 27th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a recreation of http://www.roflcopter.com as a sample entry for the site emulation index page - March 27th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the Roflcopter website recreation page (I occassionally come back to this old meme, even though hardly anyone even mentions it anymore) - March 27th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the museum entrance page to modernize it and fix issues - March 27th 2020 [FOR SNU INTERNET MUSUEM]
+
+Changes:
+
+First update in over 6 months, welcome back
+
+* Changed the indent style from Windows (Carriage Return) (Line Feed) to UNIX (Line Feed)
+
+* Added a topbar, but no sidebar, as I don't feel like it is suited to be here
+
+* Modernized the syntax
+
+* Fixed the readability of text by changing the text color (white on light brown doesn't work well)
+
+• Created snapshot 3 for the museum entrance page - March 27th 2020 [FOR SNU INTERNET MUSUEM]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 26th 2020 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 26th 2020 - March 27th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 26th 2020 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 26th 2020 - March 27th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 26th 2020 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 26th 2020 - March 27th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 26th 2020 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 26th 2020 - March 27th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 26th 2020 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 26th 2020 - March 27th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 26th 2020 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 26th 2020 - March 27th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 26th 2020 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 26th 2020 - March 27th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 26th 2020 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 26th 2020 - March 27th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from March 26th 2020 - March 27th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from March 26th 2020 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from Week 60 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from Week 60 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from Week 60 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from Week 60 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from Week 60 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from Week 60 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from Week 60 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from Week 60 - March 27th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ZIP version of the 8 developer log exports from Week 60 - March 27th 2020 [FOR SNU DEV LOG]
+
+I noticed a new management problem with keeping a zip format download of the developer log and update log entries besides storage, which is that I have to copy all 8 formats separately, and put them in a separate folder before zippig them, as each file type is assigned to its own folder. The problem this causes is high CPU usage, which leads to faster battery depletion, and also it takes extra development time to do this, especially when a weekly entry is involved. I will learn to work with this. Today was a decent day for development. I hope to work on the Internet Museum more, I still feel like it has potential.

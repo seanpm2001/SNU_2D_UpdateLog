@@ -1,0 +1,82 @@
+
+March 26th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 421)
+
+I had an extremely laid back update today, with nothing but documentation changes. I couldn't think of anything I wanted to do today, and I also had horrible time management, getting up at 8:00 am, but not getting to work until after 3:00 pm. I was doing other things, like tutoring my little brother with math, and just relaxing.
+Normal documentation
+
+• Updated the SNU 2D update log - March 26th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 26th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 363 for the SNU 2D update log - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 363 for the SNU 2D developer log - March 26th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 26th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 30 new versions added
+
+• Created snapshot 243 for the resource version index - March 26th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 26th 2020 log - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 26th 2020 article - March 26th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 26th 2020 log - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 26th 2020 article - March 26th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate developer log page for the Week 60 article - March 26th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate developer log page for the Week 60 article - March 26th 2020 [FOR SNU DEVELOPER LOG]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 25th 2020 - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 25th 2020 - March 26th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 25th 2020 - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 25th 2020 - March 26th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 25th 2020 - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 25th 2020 - March 26th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 25th 2020 - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 25th 2020 - March 26th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 25th 2020 - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 25th 2020 - March 26th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 25th 2020 - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 25th 2020 - March 26th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 25th 2020 - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 25th 2020 - March 26th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 25th 2020 - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 25th 2020 - March 26th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 different update log entries from March 25th 2020 - March 26th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ZIP version of the 8 different developer log entries from March 25th 2020 - March 26th 2020 [FOR SNU DEV LOG]
+
+I did nothing but documentation today. I didn't plan anything for today, and I didn't have the time. I began to export ZIP versions of update log and developer log entries today though, but other than that, nothing SNU (new)

@@ -1,0 +1,92 @@
+March 6th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 401)
+
+I was really stressed out with time limits when finalizing last nights update. I made it a lot easier for myself today because of this. Today, I worked on a normal documentation update, with some improvements to BrowserNose.
+Normal documentation
+
+• Updated the SNU 2D update log - March 6th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+Yesterday:
+
+* Updated entries up to April 25th 2020
+
+• Updated the SNU 2D developer log - March 6th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 343 for the SNU 2D update log - March 6th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 343 for the SNU 2D developer log - March 6th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 6th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 29 new versions added
+
+• Created snapshot 224 for the resource version index - March 6th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 6th 2020 log - March 6th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 6th 2020 article - March 6th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 6th 2020 log - March 6th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 6th 2020 article - March 6th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate developer log page for the March 2020 Week 1 article (Week 57) - March 6th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 2020 week 1 article (Week 57) - March 6th 2020 [FOR SNU DEVELOPER LOG]
+SNU BrowserNose
+
+• Created version 14 of the Mozilla Firefox browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 4 of the SeaMonkey browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the Conkerer browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Updated the SNU BrowserNose homepage - March 6th 2020 [FOR SNU BROWSERNOSE]
+
+Changes:
+
+* Added more browser sections
+
+* Added more repository links
+
+* Added more documentation links
+
+• Created snapshot 7 for the SNU BrowserNose homepage - March 6th 2020 [FOR SNU BROWSERNOSE]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 5th 2020 - March 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 5th 2020 - March 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 5th 2020 - March 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 5th 2020 - March 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 5th 2020 - March 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 5th 2020 - March 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 5th 2020 - March 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 5th 2020 - March 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a PDF version of the developer log March Week 1 article - March 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the developer log March Week 1 article - March 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the developer log March Week 1 article - March 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the developer log March Week 1 article - March 6th 2020 [FOR SNU DEV LOG]
+
+I ended up being overloaded with tasks again tonight, as I underestimated how much I needed to do. It is now the weekend, and I plan on going to my friend Michaels house tomorrow. I have some very small plans for tomorrow as a break for the past 2 stressful days.

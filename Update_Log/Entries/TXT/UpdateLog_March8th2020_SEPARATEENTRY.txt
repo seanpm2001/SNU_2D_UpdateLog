@@ -1,0 +1,78 @@
+March 8th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 403)
+
+I didn't do as much with development today. Window 10 has been a pain for me lately, I have to suffer with it for years as it gets worse and worse. I hope to switch to Linux when possible. Today, I have had excessively high CPU usage (50-80% at all times) from system processes that don't need to be running. It has drained my battery significantly, and wasted a lot of my time. It didn't let me do as much.
+Normal documentation
+
+• Updated the SNU 2D update log - March 8th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 8th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 345 for the SNU 2D update log - March 8th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 345 for the SNU 2D developer log - March 8th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 8th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 23 new versions added
+
+• Created snapshot 226 for the resource version index - March 8th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 8th 2020 log - March 8th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 8th 2020 article - March 8th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 8th 2020 log - March 8th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 8th 2020 article - March 8th 2020 [FOR SNU DEVELOPER LOG]
+BrowserNose
+
+• Created version 6 of the Google Chrome browser sniffing script - March 8th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the Classilla browser sniffing script - March 8th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the TenFourFox browser sniffing script - March 8th 2020 [FOR SNU BROWSERNOSE]
+
+• Updated the SNU BrowserNose homepage - March 8th 2020 [FOR SNU BROWSERNOSE]
+
+Changes:
+
+* Added more browser sections
+
+* Added more repository links
+
+* Added more documentation links
+
+* Verified several links
+
+• Created snapshot 9 for the SNU BrowserNose homepage - March 8th 2020 [FOR SNU BROWSERNOSE]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 7th 2020 - March 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 7th 2020 - March 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 7th 2020 - March 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 7th 2020 - March 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 7th 2020 - March 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 7th 2020 - March 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 7th 2020 - March 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 7th 2020 - March 8th 2020 [FOR SNU DEV LOG]
+
+Today, I did some tweaks to the sites browser sniffing functions, along with the homepage. I also did some slightly above average documentation improvements. I go back to school again tomorrow, and I really hope battery doesn't prove to be an issue again.

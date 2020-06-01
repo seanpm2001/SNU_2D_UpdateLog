@@ -1,0 +1,100 @@
+March 20th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 415)
+
+Tomorrow is my birthday, I got a restock on my medication today, so I was able to work on site updates. My "anti"virus, AVG (installed out of desparation, but now has just been a pain for a year) today decided to start automatically start quaranting PDFs, whether they are downloaded or created. Specifically 1 PDF, which was the Wikipedia resource I was using for suicide prevention numbers. Other PDFs seem fine, and it is saying that this is particularly not secure, and I don't believe it. Even when copying the text itself, and exporting it, it still detected the PDF, but not the other 7 copies of the same file. It was annoying. I have rambled a little too long on that.
+Normal documentation
+
+• Updated the SNU 2D update log - March 20th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 20th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 357 for the SNU 2D update log - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 357 for the SNU 2D developer log - March 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 20th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 36 new versions added
+
+• Created snapshot 238 for the resource version index - March 20th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 20th 2020 log - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 20th 2020 article - March 20th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 20th 2020 log - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 20th 2020 article - March 20th 2020 [FOR SNU DEVELOPER LOG]
+SNU Suicide Prevention center
+
+• Updated the SNU Suicide Prevention center homepage - March 20th 2020 [FOR SNU SUICIDE PREVENTION CENTER]
+
+Changes:
+
+* More suicide hotline numbers
+
+* Improved documentation
+
+• Created snapshot 3 for the SNU Suicide Prevention center homepage - March 20th 2020 [FOR SNU SUICIDE PREVENTION CENTER]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 19th 2020 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 19th 2020 - March 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 19th 2020 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 19th 2020 - March 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 19th 2020 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 19th 2020 - March 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 19th 2020 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 19th 2020 - March 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 19th 2020 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 19th 2020 - March 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 19th 2020 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 19th 2020 - March 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 19th 2020 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 19th 2020 - March 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 19th 2020 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 19th 2020 - March 20th 2020 [FOR SNU DEV LOG]
+
+• Exported a PDF version of the developer log from Week 59 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from Week 59 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from Week 59 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from Week 59 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from Week 59 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from Week 59 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from Week 59 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from Week 59 - March 20th 2020 [FOR SNU UPDATE LOG]
+
+Today, I worked on further updates to the suicide prevention page, and documentation, but that is pretty much it. I wasn't too into site development tomorrow, and I needed time to relax. I have been doing small things lately, and hopefully after tomorrow, I can start to do big things again. Today was a somewhat decent day for development.

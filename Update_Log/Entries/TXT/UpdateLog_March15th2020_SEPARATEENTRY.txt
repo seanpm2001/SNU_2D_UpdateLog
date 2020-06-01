@@ -1,0 +1,88 @@
+
+March 15th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 410)
+
+The update took until 1:30 am this morning. I managed to get everything required done, and the update has fixed my CPU problem, which I am really surprised by. Today, I had some ideas, and I began implementing them. I updated the Pi day page to wrap up work from yesterday, I did the usual documentation, and I began work on a new translation tool today.
+Normal documentation
+
+• Updated the SNU 2D update log - March 15th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 15th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 352 for the SNU 2D update log - March 15th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 352 for the SNU 2D developer log - March 15th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 15th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 30 new versions added
+
+• Created snapshot 233 for the resource version index - March 15th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 15th 2020 log - March 15th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 15th 2020 article - March 15th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 15th 2020 log - March 15th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 15th 2020 article - March 15th 2020 [FOR SNU DEVELOPER LOG]
+SNU Pi day page
+
+• Updated the SNU Pi day page (3.15.2020 update) - March 15th 2020 [FOR SNU PI DAY]
+
+Changes:
+
+* Update to wrap up some rushed things from yesterday, plus 1 new section
+
+• Created snapshot 4 for the SNU Pi day page - March 15th 2020 [FOR SNU PI DAY]
+SNU Translation tool
+
+• Created the homepage for the SNU Translation tool - March 15th 2020 [FOR SNU TRANSLATE]
+
+• Created snapshot 1 for the SNU Translation tool homepage - March 15th 2020 [FOR SNU TRANSLATE]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 14th 2020 - March 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 14th 2020 - March 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 14th 2020 - March 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 14th 2020 - March 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 14th 2020 - March 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 14th 2020 - March 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 14th 2020 - March 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 14th 2020 - March 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 14th 2020 - March 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 14th 2020 - March 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 14th 2020 - March 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 14th 2020 - March 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 14th 2020 - March 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 14th 2020 - March 15th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 14th 2020 - March 15th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 14th 2020 - March 15th 2020 [FOR SNU DEV LOG]
+
+I was going to do work on the language tag test page, but I decided to hold it off. I am getting used to the new system update, and taking time to relax today. I also need more time for the translation tool. I am surprised I didn't start work on the translation tool earliert, it is a big thing that I missed. Today was a decent day for development.

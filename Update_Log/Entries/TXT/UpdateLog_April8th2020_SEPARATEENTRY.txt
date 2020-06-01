@@ -1,0 +1,138 @@
+April 8th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 434)
+Developer log weekly summary: view it here (developer log week 62)
+
+I had less development time today, as I woke up later. I didn't plan as much today due to this, as I want to keep it to a reasonable amount. Today, I worked on documentation, a new Torrent section of the site (SNU Torrent, codename omicronTorrent, or simply oTorrent) and a big update (commit-wise) to the SNU Internet Museum, trying to finalize the Valve page. For external documentation, I have decided that I will have support for 6 new formats: Mobi, xml, xps, fodt, doc, and docm. However, it would be too difficult to make 12 additional commits each day, I want to save time for other work. Plus, I don't have any software right now that can create Mobi or XPS files. Today, when exporting the developer log entry, it was the biggest entry I have ever exported, purely because of the 4K image that I included. I was expecting document size to be hundreds of times bigger than usual, but something happened to the RTF export which I found unacceptable: the file took up over 151 megabytes. So to save space, I unfortunately had to modify this document to remove the image. I might create an exception in the future, but right now, I am trying to balance the size of SNU better.
+Normal documentation
+
+• Updated the SNU 2D update log - April 8th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 8th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 376 for the SNU 2D update log - April 8th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 376 for the SNU 2D developer log - April 8th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 8th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 54 new versions added
+
+• Created snapshot 257 for the resource version index - April 8th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 8th 2020 log - April 8th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 8th 2020 article - April 8th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 8th 2020 log - April 8th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 8th 2020 article - April 8th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate developer log page for the Week 62 article - April 8th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate developer log page for the Week 62 article - April 8th 2020 [FOR SNU DEVELOPER LOG]
+oTorrent (OmicronTorrent/SNUTorrent)
+
+• Created the homepage for the SNU Torrenting center - April 8th 2020 [FOR SNU TORRENT]
+
+• Created snapshot 1 for the homepage for the SNU Torrenting center - April 8th 2020 [FOR SNU TORRENT]
+SNU Internet Museum
+
+• Updated the Valve Internet Museum page - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* Finished adding in references from yesterday
+
+* Added in linkage to video pages
+
+• Created snapshot 5 for the Valve Internet Museum page - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for Valve/TF2 - Meet the heavy - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Meet the Heavy (Valve/TeamFortress2) - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for Valve/TF2 - Meet the sandvich - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Meet the Sandvich (Valve/TeamFortress2) - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for Valve/TF2 - Meet the Sniper - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Meet the Sniper (Valve/TeamFortress2) - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for Valve/TF2 - Meet the Engineer - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Meet the Engineer (Valve/TeamFortress2) - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for Valve/TF2 - Meet the Scout - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Meet the Scout (Valve/TeamFortress2) - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for Valve/TF2 - Meet the Demoman - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Meet the Demoman (Valve/TeamFortress2) - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for Valve/TF2 - Meet the Soldier - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Meet the Soldier (Valve/TeamFortress2) - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for Valve/TF2 - Meet the Spy - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Meet the Spy (Valve/TeamFortress2) - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for Valve/TF2 - Meet the Medic - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Meet the Medic (Valve/TeamFortress2) - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for Valve/TF2 - Meet the Pyro - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Meet the Pyro (Valve/TeamFortress2) - April 8th 2020 [FOR SNU INTERNET MUSEUM]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 7th 2020 - April 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 7th 2020 - April 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 7th 2020 - April 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 7th 2020 - April 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 7th 2020 - April 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 7th 2020 - April 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 7th 2020 - April 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 7th 2020 - April 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 7th 2020 - April 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 7th 2020 - April 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 7th 2020 - April 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 7th 2020 - April 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 7th 2020 - April 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 7th 2020 - April 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 7th 2020 - April 8th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 7th 2020 - April 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 7th 2020 - April 8th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 7th 2020 - April 8th 2020 [FOR SNU UPDATE LOG]
+
+My brother-in-law said he would check out the fake BSoD page that I created, he has been very busy at Microsoft lately, preparing their services to handle more people better. He got to me about it last night before bed. This might pave the way for more spoof pages to be created and updated. Today was a decent day for development, I tried to take it easier today.

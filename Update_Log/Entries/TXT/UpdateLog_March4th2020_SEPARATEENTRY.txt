@@ -1,0 +1,72 @@
+March 4th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 399)
+
+I had issues with being tense again today. I didn't have to go to school again today, and I took another day off. Today, I did less commits than yesterday, but more work was put into the 24 commits. I worked on an about/credits page, documentation, a new web device manager, and 2 browser sniffing script updates. I also decided to fix the misspell of "entry" in the page/filename of the update log entries from March 4th onward.
+Normal documentation
+
+• Updated the SNU 2D update log - March 4th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 4th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 341 for the SNU 2D update log - March 4th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 341 for the SNU 2D developer log - March 4th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 4th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 24 new versions added
+
+• Created snapshot 222 for the resource version index - March 4th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 4th 2020 log - March 4th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 4th 2020 article - March 4th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 4th 2020 log - March 4th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 4th 2020 article - March 4th 2020 [FOR SNU DEVELOPER LOG]
+SNU About/Credits pages
+
+• Created the master SNU about/credits page - March 4th 2020 [FOR SNU INFO]
+
+• Created snapshot 1 for the master SNU about/credits page - March 4th 2020 [FOR SNU INFO]
+SNU Device Manager
+
+• Created the SNU Web Devices device manager page - March 4th 2020 [FOR SNU WEB DEVICES CENTER]
+
+• Created snapshot 1 for the SNU Web Devices device manager page - March 4th 2020 [FOR SNU WEB DEVICES CENTER]
+SNU BrowserNose
+
+• Created version 13 of the Mozilla Firefox SNU Browser sniffing script - March 4th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 3 of the SeaMonkey SNU Browser sniffing script - March 4th 2020 [FOR SNU BROWSERNOSE]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 3rd 2020 - March 4th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 3rd 2020 - March 4th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 3rd 2020 - March 4th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 3rd 2020 - March 4th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 3rd 2020 - March 4th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 3rd 2020 - March 4th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 3rd 2020 - March 4th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 3rd 2020 - March 4th 2020 [FOR SNU DEV LOG]
+
+I have began planning on April Fools jokes for this year, I came up with another idea based on something I found on GitHub (From r/programmerhumor) this years april fools joke will actually be comedic, and have effort put in, there will be 2 difficulties for it: average computer user, and slightly above average computer user comprehension. This is just the comprehension level.

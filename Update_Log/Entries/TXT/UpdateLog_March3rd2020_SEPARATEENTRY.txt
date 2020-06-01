@@ -1,0 +1,87 @@
+March 3rd 2020
+Tag_devlog
+Developer log entry for today: view it here (developer log day 398)
+
+I stayed home today since my whole family called in sick. I slept in a bit, and had more time to relax, and didn't work on SNU as much. Today I did a general update. For the update log, I am changing the usual syntax again to better suite exported documents. I also added snapshots 501 to 600 to the update log snapshot section.
+Normal documentation
+
+• Updated the SNU 2D update log - March 3rd 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+* Added the 501-600 range for the update log snapshot section
+
+• Updated the SNU 2D developer log - March 3rd 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 340 for the SNU 2D update log - March 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 340 for the SNU 2D developer log - March 3rd 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 3rd 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 30 new versions added
+
+• Created snapshot 221 for the resource version index - March 3rd 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 3rd 2020 log - March 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 3rd 2020 article - March 3rd 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 3rd 2020 log - March 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 3rd 2020 article - March 3rd 2020 [FOR SNU DEVELOPER LOG]
+SNU ideaboard
+
+• Updated the SNU Staff ideaboard - March 3rd 2020 [FOR SNU IDEABOARD]
+
+• Created snapshot 195 for the SNU Staff ideaboard - March 3rd 2020 [FOR SNU IDEABOARD]
+SNU Protest tools
+
+• Created the SNU Owner protest tool homepage - March 3rd 2020 [FOR SNU ROOT]
+
+• Created snapshot 1 for the SNU Owner protest tool homepage - March 3rd 2020 [FOR SNU ROOT]
+
+• Created the Blackout protest tool page - March 3rd 2020 [FOR SNU PROTEST TOOLS]
+
+• Created snapshot 1 for the Blackout protest tools page - March 3rd 2020 [FOR SNU PROTEST TOOLS]
+
+• Created the protest options page - March 3rd 2020 [FOR SNU PROTEST Tools]
+
+• Created snapshot 1 for the protest options page - March 3rd 2020 [FOR SNU PROTEST Tools]
+SourceBase
+
+• Updated the SourceBase HTML draft - March 3rd 2020 [FOR SNU STARTASCRIPT]
+
+• Created HTML SourceBase 1.13 - March 3rd 2020 [FOR SNU STARTASCRIPT]
+
+• Updated the SourceBase homepage - March 3rd 2020 [FOR SNU STARTASCRIPT]
+
+• Created snapshot 8 for the SNU SourceBase homepage - March 3rd 2020 [FOR SNU STARTASCRIPT]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 2nd 2020 - March 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 2nd 2020 - March 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 2nd 2020 - March 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 2nd 2020 - March 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 2nd 2020 - March 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 2nd 2020 - March 3rd 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 2nd 2020 - March 3rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 2nd 2020 - March 3rd 2020 [FOR SNU DEV LOG]
+
+Along with documentation, today I also worked on a SourceBase update, a set of protest tools for the site manager of a SNU distribution to protest world events, and an update to the ideaboard. I was a little tense while working today, and I had some issues getting to work on my first 2 attempts, but I did well on the 3rd attempt. I am unsure what tomorrow will be like.
+
+Add a bottom description here

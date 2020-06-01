@@ -1,0 +1,109 @@
+April 6th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 432)
+
+I seem to be getting better and better again lately. I had no tension issues today, and I was really focused while working. I managed to get a lot done again today. I worked on a new video player page, the last test was unsuccessful, but I am going to try harder this time. I also updated the article on Zoom and privacy, and created an article about the Pandemic and privacy. I also began to make a system for SNU that involves encrypting user data, I have found a new effective way of increasing security, which is to automatically reload keys after a set amount of time. This might use up too much CPU and bandwidth for some people, so it isn't forced on the user, it is a choice with settings. I also worked on the Internet Museum again today.
+Normal documentation
+
+• Updated the SNU 2D update log - April 6th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+* Updated the snapshot section
+
+• Updated the SNU 2D developer log - April 6th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+* Updated the snapshot section
+
+• Created snapshot 374 for the SNU 2D update log - April 6th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 374 for the SNU 2D developer log - April 6th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 6th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 40 new versions added
+
+• Created snapshot 255 for the resource version index - April 6th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 6th 2020 log - April 6th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 6th 2020 article - April 6th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 6th 2020 log - April 6th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 6th 2020 article - April 6th 2020 [FOR SNU DEVELOPER LOG]
+SNU Video
+
+• Created a video test page for the new SNU video player - April 6th 2020 [FOR SNU VIDEO]
+
+• Created snapshot 1 for the SNU video player test page - April 6th 2020 [FOR SNU VIDEO]
+SNU Privacy Initiative
+
+• Updated the Zoom and privacy article - April 6th 2020 [FOR SNU PRIVACY INI]
+
+• Created snapshot 2 for the Zoom and privacy article - April 6th 2020 [FOR SNU PRIVACY INI]
+
+• Created an article on COVID-19 and privacy - April 6th 2020 [FOR SNU PRIVACY INI]
+
+• Created snapshot 1 for the article on COVID-19 and privacy - April 6th 2020 [FOR SNU PRIVACY INI]
+SNU Encryption
+
+• Created a page for encryption on SNU - April 6th 2020 [FOR SNU ENCYRPTION]
+
+• Created snapshot 1 for the page on SNU encryption - April 6th 2020 [FOR SNU ENCRYPTION]
+SNU Internet Museum
+
+• Updated the Valve Internet Museum page - April 6th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 3 for the Valve Internet Museum page - April 6th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the Tumblr Internet Museum page - April 6th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 2 for the Tumblr Internet Museum page - April 6th 2020 [FOR SNU INTERNET MUSEUM]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 5th 2020 - April 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 5th 2020 - April 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 5th 2020 - April 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 5th 2020 - April 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 5th 2020 - April 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 5th 2020 - April 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 5th 2020 - April 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 5th 2020 - April 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 5th 2020 - April 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 5th 2020 - April 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 5th 2020 - April 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 5th 2020 - April 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 5th 2020 - April 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 5th 2020 - April 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 5th 2020 - April 6th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 5th 2020 - April 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 5th 2020 - April 6th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 5th 2020 - April 6th 2020 [FOR SNU UPDATE LOG]
+
+I was inspired to try and do a lot today, and I made some progressive with the 3+ hours I had to work today. I really wonder right now if I am even going to be able to get back into the school schedule again after the quarantine ends. I am feeling even more ready lately to start and expand the development of this project, but I am stuck with waiting until quarantine ends first. The site really has come a long way. It is amazing that it has gotten to this point from the point where it was me just linking files to each other, and using heading tags. This site has greatly expanded my knowledge on web development. Today waa another good day for development.

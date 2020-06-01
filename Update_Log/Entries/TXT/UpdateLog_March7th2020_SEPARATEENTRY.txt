@@ -1,0 +1,82 @@
+March 7th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 402)
+
+I was going to do some volunteering this morning, but I slept in too late. Last night, I worked hard for hours on the website, but was not able to get everything done by 10:04 pm. The only thing that was left out yesterday was an update to the Firefox browser sniffing script. Today, I will visit my friend Michael at 4:00 pm, so I have to get some development done beforehand again.
+Normal documentation
+
+• Updated the SNU 2D update log - March 7th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 7th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 344 for the SNU 2D update log - March 7th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 344 for the SNU 2D developer log - March 7th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 7th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 25 new versions added, 1 version deducted
+
+• Created snapshot 225 for the resource version index - March 7th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 7th 2020 log - March 7th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 7th 2020 article - March 7th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 7th 2020 log - March 7th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 7th 2020 article - March 7th 2020 [FOR SNU DEVELOPER LOG]
+SNU BrowserNose
+
+• Created a separate Chromium sniffing script separate from (G)Chrome (V1) - March 7th 2020 [FOR SNU BROWSERNOSE]
+
+• Created a Brave browser sniffing script (I forgot to a couple days ago) - March 7th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 5 of the SeaMonkey browser sniffing script - March 7th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 14 of the Firefox browser sniffing script - March 7th 2020 [FOR SNU BROWSERNOSE]
+
+• Updated the SNU BrowserNose homepage - March 7th 2020 [FOR SNU BROWSERNOSE]
+
+Changes:
+
+* Added more browser sections
+
+* Added more repository links
+
+* Added more documentation links
+
+• Created snapshot 7 for the SNU BrowserNose homepage - March 7th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 5 of the Google Chrome browser sniffing script, now separate from Chromium - March 7th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the Google Chromium browser sniffing script - now separate from Google Chrome - March 7th 2020 [FOR SNU BROWSERNOSE]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 6th 2020 - March 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 6th 2020 - March 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 6th 2020 - March 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 6th 2020 - March 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 6th 2020 - March 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 6th 2020 - March 7th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 6th 2020 - March 7th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 6th 2020 - March 7th 2020 [FOR SNU DEV LOG]
+
+I stumbled across some things I forgot to do, such as create a Brave browser sniffing script, and snapshot the Week 57 blog on the same day of creation. I corrected those issues today, and I also worked on the usual documentation, and another major BrowserNose update, with new graphics and documentation. Today was a decent day for development, I took it easier today.

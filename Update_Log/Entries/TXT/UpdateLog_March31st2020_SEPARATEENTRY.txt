@@ -1,0 +1,78 @@
+
+March 31st 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 426)
+
+Today was a really rough day for me. My mood is really beginning to go down after being cooped up for a month. I have canceled updates for today due to how distracted I have been. I have been really low functional all day today, and I just couldn't bring myself to update SNU past documentation. I worked on a different project in my focused time today, all that was held off was an update to the Internet museum, and 3D printing areas. I likely needed this off day to recuperate.
+Normal documentation
+
+• Updated the SNU 2D update log - March 31st 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 31st 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 368 for the SNU 2D update log - March 31st 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 368 for the SNU 2D developer log - March 31st 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 31st 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 28 new versions added
+
+• Created snapshot 249 for the resource version index - March 31st 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 31st 2020 log - March 31st 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 31st 2020 article - March 31st 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 31st 2020 log - March 31st 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 31st 2020 article - March 31st 2020 [FOR SNU DEVELOPER LOG]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 30th 2020 - March 31st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 30th 2020 - March 31st 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 30th 2020 - March 31st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 30th 2020 - March 31st 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 30th 2020 - March 31st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 30th 2020 - March 31st 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 30th 2020 - March 31st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 30th 2020 - March 31st 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 30th 2020 - March 31st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 30th 2020 - March 31st 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 30th 2020 - March 31st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 30th 2020 - March 31st 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 30th 2020 - March 31st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 30th 2020 - March 31st 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 30th 2020 - March 31st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 30th 2020 - March 31st 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from March 30th 2020 - March 31st 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from March 30th 2020 - March 31st 2020 [FOR SNU UPDATE LOG]
+
+I have also began to spell check on notepad++ I don't know why I didn't do this before, other than fears of it auto-replacing words in the wrong spots. Due to my fast 2 finger typing, I seem to make frequent errors when typing on notepad++ but when using LibreOffice, I keep it a lot neater. There seems to have been at least 2 spelling errors in most entries lately, hopefully I van fix that now. I will try a lot harder to do something tomorrow, since it is April 1st, and I will put out a much better April Fools joke compared to last years. Slightly longer TL;DR: Updates canceled for the day, it is hard being cooped up today, even though I got to work early, I worked on a different project and lost functionality. SNU was not updated.

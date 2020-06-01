@@ -1,0 +1,119 @@
+March 5th 2020
+Tag_devlog
+Developer log entry for today: view it here (developer log day 400)
+Developer log weekly summary: view it here (developer log week 57)
+
+I didn't have too many unique plans for today. Today, I focused mainly on a browser sniffing script update, with the usual documentation, and I also began planning the April Fools jokes for this year. A lot of progress was made in the field of SNU Browser sniffing today, with support for over a dozen new browsers.
+Normal documentation
+
+• Updated the SNU 2D update log - March 5th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 5th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 342 for the SNU 2D update log - March 5th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 342 for the SNU 2D developer log - March 5th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 5th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 43 new versions added
+
+• Created snapshot 223 for the resource version index - March 5th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 5th 2020 log - March 5th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 5th 2020 article - March 5th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 5th 2020 log - March 5th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 5th 2020 article - March 5th 2020 [FOR SNU DEVELOPER LOG]
+April Fools 2020
+
+• Began work on the 2020 April Fools day joke page 1: the apple iframe - March 5th 2020 [FOR SNU EASTER EGGS]
+
+• Created snapshot 1 for the 2020 April fools day joke page: apple iframe article - March 5th 2020 [FOR SNU EASTER EGGS]
+
+• Began work on the 2020 April Fools day joke page 2: the adoption of nocode - March 5th 2020 [FOR SNU EASTER EGGS]
+
+• Created snapshot 1 for the 2020 April fools day joke page: adoption of nocode article - March 5th 2020 [FOR SNU EASTER EGGS]
+SNU BrowserNose
+
+• Created version 1 of the iCab browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the Netscape browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the Avant Browser browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the Slim Browser browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the GreenBrowser browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the K-Meleon browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the Konquerer browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the Brave browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the DuckDuckGo browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the AOL Explorer browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the WaterFox browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the GNU IceWeasel browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the NSCS Mosaic browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the WorldWideWeb browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the ViolaWWW browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the LineModeBrowser browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the Lynx browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the Maxthon browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Created version 1 of the Netsurf browser sniffing script - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+• Updated the SNU BrowserNose homepage - March 5th 2020 [FOR SNU BROWSERNOSE]
+
+Changes:
+
+* Added more browser sections
+
+* Added more repository links
+
+* Added more documentation links
+
+* Added in the browser sniffing scripts into the embedded part of the page
+
+• Created snapshot 6 for the SNU BrowserNose homepage - March 5th 2020 [FOR SNU BROWSERNOSE]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 4th 2020 - March 5th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 4th 2020 - March 5th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 4th 2020 - March 5th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 4th 2020 - March 5th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 4th 2020 - March 5th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 4th 2020 - March 5th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 4th 2020 - March 5th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 4th 2020 - March 5th 2020 [FOR SNU DEV LOG]
+
+I had an orientation at the Humane Society today, we went an hour early, thinking it was at 4:00 pm, when it was actually at 5:00 pm. It significantly slowed me down afterwards, and I struggled to produce the update that I was planning comfortably. Browser sniffing planning is getting really advanced now.

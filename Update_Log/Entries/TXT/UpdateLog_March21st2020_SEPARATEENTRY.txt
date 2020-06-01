@@ -1,0 +1,100 @@
+March 21st 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 416)
+Wish Sean a (late) happy 19th birthday
+
+Today is my 19th birthday. Today, I worked on getting as much done as possible before 3:00 pm so that I could celebrate my birthday without having to think about work as much. I made a little bit of an extended update today in the nearly 2 hours I had, including articles on typography, the usual documentation, an ideaboard update, and work on a new online school system, as there aren't any good online school programs, and we need something other than Google classroom.
+Normal documentation
+
+• Updated the SNU 2D update log - March 21st 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 21st 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 358 for the SNU 2D update log - March 21st 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 358 for the SNU 2D developer log - March 21st 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 21st 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 34 new versions added
+
+• Created snapshot 239 for the resource version index - March 21st 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 21st 2020 log - March 21st 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 21st 2020 article - March 21st 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 21st 2020 log - March 21st 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 21st 2020 article - March 21st 2020 [FOR SNU DEVELOPER LOG]
+SNU Typography
+
+• Created the page on camelCase - March 21st 2020 [FOR SNU TYPOGRAPHY]
+
+• Created snapshot 1 for the page on camelCase - March 21st 2020 [FOR SNU TYPOGRAPHY]
+
+• Created the page on Snake_case - March 21st 2020 [FOR SNU TYPOGRAPHY]
+
+• Created snapshot 1 for the page on Snake_case - March 21st 2020 [FOR SNU TYPOGRAPHY]
+
+• Created the page on the pros and cons of Snake_case and CamelCase - March 21st 2020 [FOR SNU TYPOGRAPHY]
+
+• Created snapshot 1 for the page on the pros and cons of Snake_case and CamelCase - March 21st 2020 [FOR SNU TYPOGRAPHY]
+SNU ideaboard
+
+• Updated the SNU Staff ideaboard - March 21st 2020 [FOR SNU IDEABOARD]
+
+Changes:
+
+* Added in entries for missed days
+
+* Added in an idea for today
+
+* Updated the idea calendar, adding the range of April 2020 to December 2020, plus a template for the first 3 days of January 2021
+
+• Created snapshot 196 for the SNU Staff ideaboard - March 21st 2020 [FOR SNU IDEABOARD]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 20th 2020 - March 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 20th 2020 - March 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 20th 2020 - March 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 20th 2020 - March 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 20th 2020 - March 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 20th 2020 - March 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 20th 2020 - March 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 20th 2020 - March 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 20th 2020 - March 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 20th 2020 - March 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 20th 2020 - March 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 20th 2020 - March 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 20th 2020 - March 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 20th 2020 - March 21st 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 20th 2020 - March 21st 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 20th 2020 - March 21st 2020 [FOR SNU DEV LOG]
+
+I had a decent day with development today. I recently came up with more ideas that I can work with, and I hope to begin improving site development soon. I finally have a good schedule (at least today) and I may become more productive. I also finally found a good Linux laptop, and I might get it as a late birthday present. It took a year of monthly searches, but I think this might be the one. Site development may slow down during the copy over process.

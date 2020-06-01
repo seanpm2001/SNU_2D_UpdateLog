@@ -1,0 +1,155 @@
+March 10th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 405)
+
+I had a very short development day today, despite having 61 commits, not much was done. This is due to how many documents got exported. I am trying to learn to cope with my new CPU issues, I am really hoping this isn't a permanent thing and will go away soon, as it is making it really hard for me, and there is no fix for several months.
+Normal documentation
+
+• Updated the SNU 2D update log - March 10th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 10th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 347 for the SNU 2D update log - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 347 for the SNU 2D developer log - March 10th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 10th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 61 new versions added
+
+• Created snapshot 228 for the resource version index - March 10th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 10th 2020 log - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 10th 2020 article - March 9th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 10th 2020 log - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 10th 2020 article - March 9th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate update log page for the March 7th 2020 log - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Updated the separate developer log page for the March 7th 2020 article - March 10th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 2 for the separate update log page for the March 7th 2020 log - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 2 for the separate developer log page for the March 7th 2020 article - March 10th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate developer log page for the Week 57 article - March 10th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 2 for the separate developer log page for the Week 57 article - March 10th 2020 [FOR SNU DEVELOPER LOG]
+SNU Disease research center
+
+• Updated the homepage for the SNU Disease research center - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created snapshot 2 for the homepage for the SNU Disease research center - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Updated a research article on Coronavirus/COVID-19 - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created snapshot 2 for the CoronaVirus/COVID-10 article - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created a research article on Measles - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created snapshot 1 for the Measles article - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created a research article on ALS - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created snapshot 1 for the ALS article - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created a research article on the Bird Flu - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created snapshot 1 for the Bird Flu article - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+SNU BrowserNose
+
+• Created version 1 of a script for Mozilla Application Suite support - March 10th 2020 [FOR SNU BROWSERNOSE]
+
+• Updated the SNU BrowserNose homepage - March 10th 2020 [FOR SNU BROWSERNOSE]
+
+Changes:
+
+* Added more browser sections
+
+* Added more repository links
+
+* Added more documentation links
+
+* Verified several links
+
+• Created snapshot 10 for the SNU BrowserNose homepage - March 10th 2020 [FOR SNU BROWSERNOSE]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 9th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 9th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 9th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 9th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 9th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 9th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 9th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 9th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 9th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 9th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 9th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 9th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 9th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 9th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 9th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 9th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 7th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 7th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 7th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 7th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 7th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 7th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 7th 2020 - March 10th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 7th 2020 - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a PDF version of the developer log week 57 article - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the developer log week 57 article - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the developer log week 57 article - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the developer log week 57 article - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the developer log week 57 article - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the developer log week 57 article - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the developer log week 57 article - March 10th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the developer log week 57 article - March 10th 2020 [FOR SNU DEV LOG]
+
+Today, I worked on massive document exporting again (massive as in, there were over 20 commits related to document exports alone) and I worked on a small BrowserNose, and disease center update. Small amounts of documentation were made as well, and that was it. Today wasn't a very good day for development. My laptop has a massive issue monthly, sometimes it stays, sometimes it goes. By the way it currently looks, it looks like this issue is going to stay, and I might have to learn to readjust my entire schedule to get used to it. I hate Windows 10 more and more every day.<

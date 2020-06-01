@@ -1,0 +1,110 @@
+March 23rd 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 418)
+
+After a long period of small updates, even with my bad schedule today, I was determined to make an update that would strengthen the foundation of SNU further. I started and worked on multiple new parts of the site today, including new audio settings, the homepage of the CompuSmell project, updates to the translation service, updates to the anti-sucide page, documentation changes, and updates to the SNU online school system, all in one day.
+Normal documentation
+
+• Updated the SNU 2D update log - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 23rd 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 360 for the SNU 2D update log - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 360 for the SNU 2D developer log - March 23rd 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 23rd 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 38 new versions added
+
+• Created snapshot 240 for the resource version index - March 23rd 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 23rd 2020 log - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 23rd 2020 article - March 23rd 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 23rd 2020 log - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 23rd 2020 article - March 23rd 2020 [FOR SNU DEVELOPER LOG]
+The CompuSmell project
+
+• Created the homepage for the SNU CompuSmell project - March 23rd 2020 [FOR SNU COMPUSMELL PROJECT]
+
+• Created snapshot 1 for the homepage for the SNU CompuSmell project - March 23rd 2020 [FOR SNU COMPUSMELL PROJECT]
+SNU post interaction sound settings
+
+• Created the settings page for post interaction sounds - March 23rd 2020 [FOR SNU AUDIO SETTINGS]
+
+• Created snapshot 1 for the settings page for post interaction sounds - March 23rd 2020 [FOR SNU AUDIO SETTINGS]
+SNU Suicide Prevention center
+
+• Updated the SNU Suicide Prevention center homepage - March 23rd 2020 [FOR SNU SUICIDE PREVENTION CENTER]
+
+Changes:
+
+* Improved documentation
+
+• Created snapshot 4 for the SNU Suicide Prevention center homepage - March 23rd 2020 [FOR SNU SUICIDE PREVENTION CENTER]
+SNU Translation tool
+
+• Updated the homepage for the SNU Translation tool - March 23rd 2020 [FOR SNU TRANSLATE]
+
+Changes:
+
+* New documentation for language families
+
+• Created snapshot 6 for the SNU Translation tool homepage - March 23rd 2020 [FOR SNU TRANSLATE]
+SNU eSchool
+
+• Updated the homepage for the SNU eSchool center - March 23rd 2020 [FOR SNU ONLINE SCHOOL]
+
+• Created snapshot 2 for the homepage for the SNU eSchool center - March 23rd 2020 [FOR SNU ONLINE SCHOOL]
+
+• Created the classroom dashboard page [SNU mode] - March 23rd 2020 [FOR SNU ONLINE SCHOOL]
+
+• Created snapshot 1 for the classroom dashboard page [SNU mode] - March 23rd 2020 [FOR SNU ONLINE SCHOOL]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 22nd 2020 - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 22nd 2020 - March 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 22nd 2020 - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 22nd 2020 - March 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 22nd 2020 - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 22nd 2020 - March 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 22nd 2020 - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 22nd 2020 - March 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 22nd 2020 - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 22nd 2020 - March 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 22nd 2020 - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 22nd 2020 - March 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 22nd 2020 - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 22nd 2020 - March 23rd 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 22nd 2020 - March 23rd 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 22nd 2020 - March 23rd 2020 [FOR SNU DEV LOG]
+
+I worked on 6 different projects today (7 if you count file exporting) I still have more planned, I just need to find good days to do it. Today, I made many changes to these pages, and added new ideas in. Site development is still a little slow at the moment, but I am still working on my schedule, and my motivation. I am still working on the foundation of this website, and it is taking a long time to do so by myself. I really feel like I need a break, but I want to keep the daily streak going, and I have no-one to cover for me. Even with all the new features, I feel like today is only a decent day for site development.

@@ -1,0 +1,132 @@
+March 12th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 407)
+
+I was sick again today. I stayed home due to this. Our state recently went into Stage 3 for the COVID-19 pandemic, and it might reach stage 4 soon, as it was only stage 2 just a week ago. I have been struggling to update lately die to the CPU issue, and now my computer wants to install the 1909 update of Windows 10, but for once I have the option to delay the installation. I am finding info and time for it, so I can stay somewhat secure before I switch to Linux. Due to these issues, I didn't have much planned for today, so it is just another filler update, but with another new section of the site: the SNU Font Mill
+Normal documentation
+
+• Updated the SNU 2D update log - March 12th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 12th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 349 for the SNU 2D update log - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 349 for the SNU 2D developer log - March 12th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 12th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 55 new versions added
+
+• Created snapshot 230 for the resource version index - March 12th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 12th 2020 log - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 12th 2020 article - March 12th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 12th 2020 log - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 12th 2020 article - March 12th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate update log page for the February 29th 2020 log - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Updated the separate developer log page for the February 29th 2020 article - March 12th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 3 for the separate update log page for the February 29th 2020 log - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 3 for the separate developer log page for the Februry 29th 2020 article - March 12th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate update log page for the March 1st 2020 log - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Updated the separate developer log page for the March 1st 2020 article - March 12th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 3 for the separate update log page for the March 1st 2020 log - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 3 for the separate developer log page for the March 1st 2020 article - March 12th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created the separate developer log page for the Week 58 article - March 12th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate developer log page for the Week 58 article - March 12th 2020 [FOR SNU DEVELOPER LOG]
+SNU Font Mill
+
+• Created the FontLIBrary directory to store fonts on SNU (the LIB being capitalized with the abbrevation in lowercase is to help new programmers learn the term better and faster than I did. This will become a site standard) - March 12th 2020 [FOR SNU FONT MILL]
+
+• Created the SNU Font Mill homepage - March 12th 2020 [FOR SNU FONT MILL]
+
+• Created snapshot 1 for the SNU Font Mill homepage - March 12th 2020 [FOR SNU FONT MILL]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 11th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 11th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 11th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 11th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 11th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 11th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 11th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 11th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 11th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 11th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 11th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 11th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 11th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 11th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 11th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 11th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from February 29th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from February 29th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from February 29th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from February 29th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February February 29th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from February 29th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from February 29th 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from February 29th 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 1st 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 1st 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 1st 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 1st 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 1st 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 1st 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 1st 2020 - March 12th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 1st 2020 - March 12th 2020 [FOR SNU DEV LOG]
+
+I created a font center today so I can store and test various fonts, including those not yet downloaded by the browser. One of the directory changes that comes with this is a naming change, where lib is spelled as "LIBrary" this is to help aid newer programmers to learn that the term means Library even faster than I did (it took me a few years of computing before I bothered to look it up) This is also helpful if they were to forget. The font mill will be part of 2D mode, but the fonts will be in the root of the distribution. I also did more document exporting today, and documentation changes, but that was it for today. I didn't want to overload myself. i just have a cold, I have had it for a few days now, but it keeps getting worse. It is mainly just stuffy nose with a bad sore throat. I will be fine.

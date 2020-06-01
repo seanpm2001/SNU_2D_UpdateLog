@@ -1,0 +1,65 @@
+
+February 29th 2020
+Tag_devlog
+Developer log entry for today: view it here (developer log day 394)
+
+I worked on another update today, and had a little more time to do so. My friend Michael wasn't available today, so I didn't go see him. Today, I am working with a new goal, which is to make separate update log and developer log entries again. This time, I feel that I can keep up with it.
+
+Normal documentation
+
+• Updated the SNU 2D update log - February 29th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+* Updated the February 2020 commit count
+
+• Updated the SNU 2D developer log - February 29th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 337 for the SNU 2D update log - February 29th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 337 for the SNU 2D developer log - February 29th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - February 29th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 18 new versions added
+
+• Created snapshot 218 for the resource version index - February 29th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the February 29th 2020 log - February 29th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the February 29th 2020 article - February 29th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the February 29th 2020 log - February 29th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the February 29th 2020 article - February 29th 2020 [FOR SNU DEVELOPER LOG]
+
+SNU ideaboard
+
+• Updated the SNU Staff ideaboard - February 29th 2020 [FOR SNU IDEABOARD]
+
+• Created snapshot 192 for the SNU Staff ideaboard - February 29th 2020 [FOR SNU IDEABOARD]
+
+SNU BrowserNose
+
+• Created a script for SeaMonkey browser sniffing support - February 29th 2020 [FOR SNU BROWSERNOSE]
+
+• Created snapshot 1 for the SeaMonkey browser sniffing script - February 29th 2020 [FOR SNU BROWSERNOSE]
+
+• Created a script for Microsoft Edge browser sniffing support - February 29th 2020 [FOR SNU BROWSERNOSE]
+
+• Created snapshot 1 for the Microsoft Edge browser sniffing script - February 29th 2020 [FOR SNU BROWSERNOSE]
+
+SNU Leap Day page
+
+• Created the homepage for leap day on SNU - February 29th 2020 [FOR SNU LEAP DAY]
+
+• Created snapshot 1 for the SNU leap day homepage - February 29th 2020 [FOR SNU LEAP DAY]
+
+Along with this, I added browser sniffing support for SeaMonkey and Microsoft Edge, did the normal general documentation, updated the ideaboard, and created a page for leap day.

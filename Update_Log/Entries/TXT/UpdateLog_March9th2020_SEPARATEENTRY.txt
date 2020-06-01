@@ -1,0 +1,123 @@
+March 9th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 404)
+
+I started school again today, and I made an update plan for today. Today, I will be updating older articles (March 6th 2020) as I am now converting update log and developer log articles in 4 new formats (DOC, DOCX, UOT, RTF) my CPU usage is still an issue, but it isn't as bad at school.
+Normal documentation
+
+• Updated the SNU 2D update log - March 9th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 9th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 346 for the SNU 2D update log - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 346 for the SNU 2D developer log - March 9th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 9th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 50 new versions added
+
+• Created snapshot 227 for the resource version index - March 9th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 9th 2020 log - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 9th 2020 article - March 9th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 9th 2020 log - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 9th 2020 article - March 9th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate update log page for the March 6th 2020 log - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Updated the separate developer log page for the March 6th 2020 article - March 9th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 2 for the separate update log page for the March 6th 2020 log - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 2 for the separate developer log page for the March 6th 2020 article - March 9th 2020 [FOR SNU DEVELOPER LOG]
+SNU settings
+
+• Created a page for Autoplay settings (automatically starting videos upon opening the page) - March 9th 2020 [FOR SNU SETTINGS]
+
+• Created snapshot 1 for the page for Autoplay settings (automatically starting videos upon opening the page) - March 9th 2020 [FOR SNU SETTINGS]
+
+• Created a page for Video marker settings (the ball/object that indicates progress in the video) - March 9th 2020 [FOR SNU SETTINGS]
+
+• Created snapshot 1 for the page for Video market settings (the ball/object that indicates progress in the video) - March 9th 2020 [FOR SNU SETTINGS]
+
+• Created a page for Subtitle marker settings (the object that passes through/bounces over the current spoken word) - March 9th 2020 [FOR SNU SETTINGS]
+
+• Created snapshot 1 for the page for Subtitle market settings (the object that passes through/bounces over the current spoken word) - March 9th 2020 [FOR SNU SETTINGS]
+
+• Created a page for Scrolling settings - March 9th 2020 [FOR SNU SETTINGS]
+
+• Created snapshot 1 for the page for Scrolling settings - March 9th 2020 [FOR SNU SETTINGS]
+SNU Disease research center
+
+• Created the homepage for the SNU Disease research center - March 9th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created snapshot 1 for the homepage for the SNU Disease research center - March 9th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created a research article on Coronavirus/COVID-19 - March 9th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created snapshot 1 for the CoronaVirus/COVID-10 article - March 9th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 8th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 8th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 8th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 8th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 8th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 8th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 8th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 8th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 8th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 8th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 8th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 8th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 8th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 8th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 8th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 8th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 6th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 6th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 6th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 6th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 6th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 6th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 6th 2020 - March 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 6th 2020 - March 9th 2020 [FOR SNU DEV LOG]
+
+Along with documentation and exported files, today I worked on pages for new settings for video players, and the instant functionality of things. I also began work on a new disease research center, which can be used to research and learn about current and older diseases, including the COVID-19 (CoronaVirus) pandemic.

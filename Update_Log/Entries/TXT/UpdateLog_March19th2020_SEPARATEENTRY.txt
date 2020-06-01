@@ -1,0 +1,96 @@
+March 19th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 414)
+
+I created another small update today, putting more work into the suicide prevention center, the translation tool, and the new System directory, which hosts important uncategorized SNU files (at the moment) 1 such file is the sortOrder.css file, which shows info on A-Z Z-A 0-9 9-0 sorting across (coming soon) all languages, and alphabet(a) systems.
+Normal documentation
+
+• Updated the SNU 2D update log - March 19th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 19th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 356 for the SNU 2D update log - March 19th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 356 for the SNU 2D developer log - March 19th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 19th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 34 new versions added
+
+• Created snapshot 237 for the resource version index - March 19th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 19th 2020 log - March 19th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 19th 2020 article - March 19th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 19th 2020 log - March 19th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 19th 2020 article - March 19th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created a separate developer log page for the Week 59 article - March 19th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate developer log page for the Week 59 article - March 19th 2020 [FOR SNU DEVELOPER LOG]
+SNU Suicide Prevention center
+
+• Updated the SNU Suicide Prevention center homepage - March 19th 2020 [FOR SNU SUICIDE PREVENTION CENTER]
+
+Changes:
+
+* More suicide hotline numbers
+
+• Created snapshot 2 for the SNU Suicide Prevention center homepage - March 19th 2020 [FOR SNU SUICIDE PREVENTION CENTER]
+SNU Translation tool
+
+• Updated the homepage for the SNU Translation tool - March 19th 2020 [FOR SNU TRANSLATE]
+
+• Created snapshot 5 for the SNU Translation tool homepage - March 19th 2020 [FOR SNU TRANSLATE]
+SNU System
+
+• Created the A-Z_SortOrder CSS file to define how to sort A-Z, 0-9 across all languages - March 19th 2020 [FOR SNU SYSTEM]
+
+• Created snapshot 1 of the A-Z_SortOrder CSAA file - March 19th 2020 [FOR SNU SYSTEM]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 18th 2020 - March 19th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 18th 2020 - March 19th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 18th 2020 - March 19th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 18th 2020 - March 19th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 18th 2020 - March 19th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 18th 2020 - March 19th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 18th 2020 - March 19th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 18th 2020 - March 19th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 18th 2020 - March 19th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 18th 2020 - March 19th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 18th 2020 - March 19th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 18th 2020 - March 19th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 18th 2020 - March 19th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 18th 2020 - March 19th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 18th 2020 - March 19th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 18th 2020 - March 19th 2020 [FOR SNU DEV LOG]
+
+I am feeling like everything is way too repetitive lately. I only have so many hours in a day, and I don't feel like I am able to do enough. I am having so much downtime lately due to a horrible schedule and missing medication. I was planning on also working on a side project today, but I didn't have the time. Today, I worked mostly on documentation, there is a lot of documentation compared to new content lately, I am sorry for this, but it must be done. I am keeping a better streak than the last time I tried this (with the exporting and separate blog entries, except this time it is for both the update log and developer log) this process usually only takes about 20 minutes a day for all commits related to separate blog and update log entries. Today was a decent day for development, things should hopefully get better soon.

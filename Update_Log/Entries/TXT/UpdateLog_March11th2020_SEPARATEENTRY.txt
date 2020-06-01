@@ -1,0 +1,92 @@
+March 11th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 406)
+Developer log weekly summary: view it here (developer log week 58)
+
+I am starting to get used to the laptop CPU issue, but it has affected my website development due to time loss and distraction. Today, I didn't do much again, I had less time to develop today, and I just made a few minor changes.
+Normal documentation
+
+• Updated the SNU 2D update log - March 11th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 11th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+* Updated the snapshot section to include updated dates, and a 501 to 600 range to match the update log
+
+The developer log page has reached 12000+ lines of code (sitting at 12005 lines)
+
+• Created snapshot 348 for the SNU 2D update log - March 11th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 348 for the SNU 2D developer log - March 11th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 11th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 32 new versions added
+
+• Created snapshot 229 for the resource version index - March 11th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 11th 2020 log - March 11th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 11th 2020 article - March 11th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 11th 2020 log - March 11th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 11th 2020 article - March 11th 2020 [FOR SNU DEVELOPER LOG]
+SNU settings
+
+• Updated the page for Scrolling settings - March 11th 2020 [FOR SNU SETTINGS]
+
+• Created snapshot 2 for the page for Scrolling settings - March 11th 2020 [FOR SNU SETTINGS]
+SNU Disease research center
+
+• Updated a research article on Coronavirus/COVID-19 - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created snapshot 2 for the CoronaVirus/COVID-10 article - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created a research article on Measles - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+• Created snapshot 1 for the Measles article - March 10th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 10th 2020 - March 11th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 10th 2020 - March 11th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 10th 2020 - March 11th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 10th 2020 - March 11th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 10th 2020 - March 11th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 10th 2020 - March 11th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 10th 2020 - March 11th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 10th 2020 - March 11th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 10th 2020 - March 11th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 10th 2020 - March 11th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 10th 2020 - March 11th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 10th 2020 - March 11th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 10th 2020 - March 11th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 10th 2020 - March 11th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 10th 2020 - March 11th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 10th 2020 - March 11th 2020 [FOR SNU DEV LOG]
+
+Today, I worked on site settings, improved documentation, and disease research. Nothing else was done today. I have been lacking lately, mostly due to the new CPU issue, but also because of a minor cold. Development should pick back up again soon.

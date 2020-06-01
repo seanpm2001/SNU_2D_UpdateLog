@@ -1,0 +1,139 @@
+
+April 9th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 435)
+
+I am breaking my 10-11 hour sleep cycle. I got less than 8 hours of sleep last night for once. It is still Spring Break for me, so I don't have to do online work yet. Today, I had a lot of freetime, and I didn't get to website work until later on, but I did some important changes, such as beginning to remove comments from the update log. I cleared over 0.10 Megabytes of comments from just April of this year, and I intend to clear out all of March 2020 tomorrow, which will clear up at least 0.16 Megabytes of space. This may not seem like too much, but it is important, and it adds up, considering the update log page alone has been over 3 megabytes in size for a while. Comments will still remain in older versions, and on update log separate entry pages.
+Normal documentation
+
+• Updated the SNU 2D update log - April 9th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - April 9th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 377 for the SNU 2D update log - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 377 for the SNU 2D developer log - April 9th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - April 9th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 49 new versions added
+
+• Created snapshot 258 for the resource version index - April 9th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the April 9th 2020 log - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the April 9th 2020 article - April 9th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the April 9th 2020 log - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the April 9th 2020 article - April 9th 2020 [FOR SNU DEVELOPER LOG]
+SNU Disease research center
+
+• Updated a research article on Coronavirus/COVID-19 - April 9th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+
+A lot has happened since March 11th 2020, it has been almost a whole month, and things have completely changed
+
+Changes:
+
+* Added new data
+
+* Created a daily report system
+
+• Created snapshot 4 for the CoronaVirus/COVID-10 article - April 9th 2020 [FOR SNU DISEASE RESEARCH CENTER]
+SNU Internet Museum
+
+• Updated the Valve Internet Museum page - April 9th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* Added in a community section
+
+* Added in more of Valve's characteristics
+
+* Updated video linkage
+
+• Created snapshot 6 for the Valve Internet Museum page - April 9th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created a video page for Valve/TF2 - Meet the team (full series) - April 9th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Created snapshot 1 for the video page for Meet the team (full series) - April 9th 2020 [FOR SNU INTERNET MUSEUM]
+SNU Committee center
+
+• Created a developer guideline homepage - April 9th 2020 [FOR SNU COMMITTEE]
+
+• Created snapshot 1 for the developer guideline homepage - April 9th 2020 [FOR SNU COMMITTEE]
+
+• Created a developer guideline page on obscenity - April 9th 2020 [FOR SNU COMMITTEE]
+
+• Created snapshot 1 for the developer guideline page on obscenity - April 9th 2020 [FOR SNU COMMITTEE]
+
+• Created a developer guideline page on privacy - April 9th 2020 [FOR SNU COMMITTEE]
+
+• Created snapshot 1 for the developer guideline page on privacy - April 9th 2020 [FOR SNU COMMITTEE]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from April 8th 2020 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from April 8th 2020 - April 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from April 8th 2020 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from April 8th 2020 - April 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February April 8th 2020 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from April 8th 2020 - April 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from April 8th 2020 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from April 8th 2020 - April 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from April 8th 2020 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from April 8th 2020 - April 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from April 8th 2020 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from April 8th 2020 - April 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February April 8th 2020 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from April 8th 2020 - April 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from April 8th 2020 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from April 8th 2020 - April 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from April 8th 2020 - April 9th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from April 8th 2020 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from Week 62 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from Week 62 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from Week 62 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from Week 62 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from Week 62 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from Week 62 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from Week 62 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from Week 62 - April 9th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ZIP version of the 8 developer log exports from Week 62 - April 9th 2020 [FOR SNU DEV LOG]
+
+Today, I continued work on the Valve Internet Museum page. I have been working especially hard on this page to get it just right, and I have had an additional 3 days now where I came up with more things to do. I also did important work on documentation today, adding in the commit count for April, since the comments are gone, it is more comfortable to do so. I will do the same for March when I clear the comments up. I also updated my article on COVID-19, as it is completely different now, compared to when I started it on March 11th 2020. Finally, I worked on the SNU Committee, this area has rarely been updated, and I had some important documentation regarding development to go there. Today was a good day for development.

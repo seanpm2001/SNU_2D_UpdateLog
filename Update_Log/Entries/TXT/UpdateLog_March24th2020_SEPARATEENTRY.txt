@@ -1,0 +1,156 @@
+
+March 24th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 419)
+
+I started online school work today, and also woke up a little late, but I still had plenty of time for website development. Today, I worked on many different things again, which include a revival of work on the SNU CardStack platform (I modernized the homepage, and began to work on a new game) documentation, an update to the SNU web template, sourceBase (1.14 update, version 15 of HTML5) work on a software development kit for the CompuSmell project, and work on the SNU online school system.
+Normal documentation
+
+• Updated the SNU 2D update log - March 24th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 24th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 361 for the SNU 2D update log - March 24th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 361 for the SNU 2D developer log - March 24th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 24th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 51 new versions added
+
+• Created snapshot 241 for the resource version index - March 24th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 24th 2020 log - March 24th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 24th 2020 article - March 24th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 24th 2020 log - March 24th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 24th 2020 article - March 24th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the separate update log page for the March 23rd 2020 log - March 24th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* The wrong document was added in yesterday, it was corrected today
+
+• Created snapshot 2 for the separate update log page for the March 23rd 2020 log - March 24th 2020 [FOR SNU UPDATE LOG]
+SourceBase (SNU/StartAScript)
+
+• Created version 15 (1.14) of the SNU SourceBase HTML5 web template - March 24th 2020 [FOR SNU STARTASCRIPT]
+
+Changes:
+
+* Syntax updates
+
+* Improved documentation and added blank compiler space (A programming standard)
+
+* Added new download templates
+
+• Updated the SourceBase homepage - March 24th 2020 [FOR SNU STARTASCRIPT]
+
+• Created snapshot 9 for the SNU SourceBase homepage - March 24th 2020 [FOR SNU STARTASCRIPT]
+SNU CardStack
+
+• Updated the SNU CardStack homepage - March 24th 2020 [FOR SNU CARDSTACK]
+
+Changes:
+
+* Major syntax update
+
+* Sidebar update
+
+• Created snapshot 6 of the SNU CardStack homepage - March 24th 2020 [FOR SNU CARDSTACK]
+
+• Created the Banking card game category + homepage - March 24th 2020 [FOR SNU CARDSTACK]
+
+• Created snapshot 1 for the Banking card game category homepage - March 24th 2020 [FOR SNU CARDSTACK]
+
+• Created the SNU CardStack casino market page - March 24th 2020 [FOR SNU CARDSTACK]
+
+• Created snapshot 1 for the SNU CardStack casino market page - March 24th 2020 [FOR SNU CARDSTACK]
+
+• Created the game page for TwentyOne - March 24th 2020 [FOR SNU CARDSTACK]
+
+• Created snapshot 1 for the game page for TwentyOne - March 24th 2020 [FOR SNU CARDSTACK]
+
+• Created the game page for TwentyOne - Thresholds (My specialized version of TwentyOne that lasts a lot longer) - March 24th 2020 [FOR SNU CARDSTACK]
+
+• Created snapshot 1 for the game page for TwentyOne - Thresholds - March 24th 2020 [FOR SNU CARDSTACK]
+
+• Created version 1 of the JavaScript file for the game: TwentyOne - March 24th 2020 [FOR SNU CARDSTACK]
+
+• Created version 1 of the JavaScript file for the game: TwentyOne - Thresholds - March 24th 2020 [FOR SNU CARDSTACK]
+SNU CompuSmell project
+
+• Updated the SNU CompuSmell project homepage - March 24th 2020 [FOR SNU COMPUSMELL PROJECT]
+
+Changes:
+
+* Added links to a Software Development Kit (SDK)
+
+• Created snapshot 2 for the SNU CompuSmell project homepage - March 24th 2020 [FOR SNU COMPUSMELL PROJECT]
+
+• Created the SNU CompuSmell VSmell SDK page - March 24th 2020 [FOR SNU COMPUSMELL PROJECT]
+
+• Created snapshot 1 for the SNU CompuSmell VSmell SDK page - March 24th 2020 [FOR SNU COMPUSMELL PROJECT]
+
+• Created the documentation center homepage for the SNU CompuSmell project - March 24th 2020 [FOR SNU COMPUSMELL PROJECT]
+
+• Created snapshot 1 for the SNU CompuSmell documentation center homepage - March 24th 2020 [FOR SNU COMPUSMELL PROJECT]
+SNU Online School
+
+• Updated the homepage for the SNU Online School - March 24th 2020 [FOR SNU eSchool]
+
+Changes:
+
+* Added more links
+
+* Added in a few new class types
+
+• Created snapshot 3 for the homepage for the SNU Online School center - March 24th 2020 [FOR SNU eSchool]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 23rd 2020 - March 24th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 23rd 2020 - March 24th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 23rd 2020 - March 24th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 23rd 2020 - March 24th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 23rd 2020 - March 24th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 23rd 2020 - March 24th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 23rd 2020 - March 24th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 23rd 2020 - March 24th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 23rd 2020 - March 24th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 23rd 2020 - March 24th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 23rd 2020 - March 24th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 23rd 2020 - March 24th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 23rd 2020 - March 24th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 23rd 2020 - March 24th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 23rd 2020 - March 24th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 23rd 2020 - March 24th 2020 [FOR SNU DEV LOG]
+
+I made a lot of progress today. However, I did overwhelm myself with a lot of work. In the end, I managed to get it all done. I am making progress on the site again, but it hasn't been feeling like it lately. My schedule isn't fully balanced yet, and I need some time to settle in before I can become even more efficient again. Today was a good day for site development.

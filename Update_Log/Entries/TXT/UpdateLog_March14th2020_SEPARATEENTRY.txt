@@ -1,0 +1,78 @@
+March 14th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 409)
+
+Today is Pi day. I took a day off site development until nighttime, but then got stomped by Microsoft forcing the Windows 10 1909 update on me when I was trying to finalize work for the night. I tried for 6 minutes to cancel the 1 hour auto update, but failed, and had to do todays entire update in less than 54 minutes. I started work at the Humane Society this morning, and took a day to relax and do other things.
+Normal documentation
+
+• Updated the SNU 2D update log - March 14th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 14th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 351 for the SNU 2D update log - March 14th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 351 for the SNU 2D developer log - March 14th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 14th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 28 new versions added
+
+• Created snapshot 232 for the resource version index - March 14th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 14th 2020 log - March 14th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 14th 2020 article - March 14th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 14th 2020 log - March 14th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 14th 2020 article - March 14th 2020 [FOR SNU DEVELOPER LOG]
+SNU Pi day page
+
+• Updated the SNU Pi day page (3.14.2020 update) - March 14th 2020 [FOR SNU PI DAY]
+
+• Created snapshot 3 for the SNU Pi day page - March 14th 2020 [FOR SNU PI DAY]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 13th 2020 - March 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 13th 2020 - March 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 13th 2020 - March 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 13th 2020 - March 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 13th 2020 - March 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 13th 2020 - March 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 13th 2020 - March 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 13th 2020 - March 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 13th 2020 - March 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 13th 2020 - March 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 13th 2020 - March 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 13th 2020 - March 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 13th 2020 - March 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 13th 2020 - March 14th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 13th 2020 - March 14th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 13th 2020 - March 14th 2020 [FOR SNU DEV LOG]
+
+Today, I wanted to make a better update for the Pi day page, but I will have to hold off the finalization for 3.15. I at least got the work started. I didn't have too much planned for today, so I was still able to do everything I wanted to. I am hoping the update doesn't break my computer, and I will try to make a better update tomorrow. My school has been suspended for 6 weeks over COVID-19, and I don't have to go in Monday. I am hoping this doesn't affect my graduation.

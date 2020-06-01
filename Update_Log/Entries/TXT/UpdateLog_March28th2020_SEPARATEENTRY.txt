@@ -1,0 +1,134 @@
+
+March 28th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 423)
+
+I was really out of it today. I was going to do more, but I had some focus issues. I stayed up really late last night, and had difficulty getting to work today. I have been taking too much downtime lately. I still did get some work done today.
+Normal documentation
+
+• Updated the SNU 2D update log - March 28th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 28th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 364 for the SNU 2D update log - March 28th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 364 for the SNU 2D developer log - March 28th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 28th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 38 new versions added
+
+• Created snapshot 244 for the resource version index - March 28th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 28th 2020 log - March 28th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 28th 2020 article - March 28th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 28th 2020 log - March 28th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 28th 2020 article - March 28th 2020 [FOR SNU DEVELOPER LOG]
+SNU Internet Museum
+
+• Updated the SNU internet museum lobby to modernize the page and begin new updates for it - March 28th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+>
+
+* Updated the sidebar
+
+* Updated the page contents
+
+• Created snapshot 7 for the SNU Internet Museum Lobby page - March 28th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the YouTube museum homepage to modernize the page and begin new updates for it - March 28th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* Modernized the page syntax
+
+* Updated the CSS
+
+* Changed the indent style from Windows (Carriage Return) (Line Feed) to UNIX (Line Feed)
+
+• Created snapshot 3 for the YouTube museum homepage - March 28th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the Reddit museum homepage to modernize the page and begin new updates for it - March 28th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* Modernized the page syntax
+
+* Updated the CSS
+
+* Changed the indent style from Windows (Carriage Return) (Line Feed) to UNIX (Line Feed)
+
+• Created snapshot 2 for the Reddit museum homepage - March 28th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the FaceBook museum homepage to modernize the page and begin new updates for it - March 28th 2020 [FOR SNU INTERNET MUSEUM]
+
+Changes:
+
+* Modernized the page syntax
+
+* Updated the CSS
+
+* Changed the indent style from Windows (Carriage Return) (Line Feed) to UNIX (Line Feed)
+
+• Created snapshot 3 for the FaceBook museum homepage - March 28th 2020 [FOR SNU INTERNET MUSEUM]
+
+• Updated the museum entrance page to fix some issues - March 28th 2020 [FOR SNU INTERNET MUSUEM]
+
+Changes:
+
+* Marginalized the topbar (very minor update)
+
+• Created snapshot 4 for the museum entrance page - March 28th 2020 [FOR SNU INTERNET MUSUEM]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 27th 2020 - March 28th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 27th 2020 - March 28th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 27th 2020 - March 28th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 27th 2020 - March 28th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 27th 2020 - March 28th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 27th 2020 - March 28th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 27th 2020 - March 28th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 27th 2020 - March 28th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 27th 2020 - March 28th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 27th 2020 - March 28th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 27th 2020 - March 28th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 27th 2020 - March 28th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 27th 2020 - March 28th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 27th 2020 - March 28th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 27th 2020 - March 28th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 27th 2020 - March 28th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 developer log exports from March 27th 2020 - March 28th 2020 [FOR SNU DEV LOG]
+
+• Exported a ZIP version of the 8 update log exports from March 27th 2020 - March 28th 2020 [FOR SNU UPDATE LOG]
+
+Today, I worked on documentation, and some changes to further modernize the SNU internet museum. I have a lot going on at the moment, and it has been difficult going with site development. I am also going to try and learn SQL again soon. Today wasn't a very good day for development, but it was better than nothing.

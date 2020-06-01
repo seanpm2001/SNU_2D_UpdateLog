@@ -1,0 +1,91 @@
+
+March 18th 2020
+View in separate page
+Tag_devlog
+Developer log entry for today: view it here (developer log day 413)
+Developer log weekly summary: view it here (developer log week 59)
+
+I had more time today, but I was also halfway functional again as well. Today, along with documentation and work on another translation tool update, I made my first use of the tel: attribute, and created a functional suicide prevention center. If the hotline numbers just don't work for people, there is built-in info on why you shouldn't kill yourself, based on personal experience.
+Normal documentation
+
+• Updated the SNU 2D update log - March 18th 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 18th 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 355 for the SNU 2D update log - March 18th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 355 for the SNU 2D developer log - March 18th 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 18th 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 30 new versions added
+
+• Created snapshot 236 for the resource version index - March 18th 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 18th 2020 log - March 18th 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 18th 2020 article - March 18th 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 18th 2020 log - March 18th 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 18th 2020 article - March 18th 2020 [FOR SNU DEVELOPER LOG]
+SNU Suicide Prevenion center
+
+• Created the SNU Suicide Prevention center homepage - March 18th 2020 [FOR SNU SUICIDE PREVENTION CENTER]
+
+Features
+
+* Multiple suicide hotline numbers
+
+* A few sections about anti-suicide, from experience
+
+• Created snapshot 1 for the SNU Suicide Prevention center homepage - March 18th 2020 [FOR SNU SUICIDE PREVENTION CENTER]
+SNU Translation tool
+
+• Updated the homepage for the SNU Translation tool - March 18th 2020 [FOR SNU TRANSLATE]
+
+• Created snapshot 4 for the SNU Translation tool homepage - March 18th 2020 [FOR SNU TRANSLATE]
+Exports from update log and developer log
+
+• Exported a PDF version of the update log from March 17th 2020 - March 18th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a PDF version of the developer log from March 17th 2020 - March 18th 2020 [FOR SNU DEV LOG]
+
+• Exported a EPUB version of the update log from March 17th 2020 - March 18th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a EPUB version of the developer log from March 17th 2020 - March 18th 2020 [FOR SNU DEV LOG]
+
+• Exported a TXT version of the update log from February March 17th 2020 - March 18th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a TXT version of the developer log from March 17th 2020 - March 18th 2020 [FOR SNU DEV LOG]
+
+• Exported a ODT version of the update log from March 17th 2020 - March 18th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a ODT version of the developer log from March 17th 2020 - March 18th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOC version of the update log from March 17th 2020 - March 18th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOC version of the developer log from March 17th 2020 - March 18th 2020 [FOR SNU DEV LOG]
+
+• Exported a DOCX version of the update log from March 17th 2020 - March 18th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a DOCX version of the developer log from March 17th 2020 - March 18th 2020 [FOR SNU DEV LOG]
+
+• Exported a UOT version of the update log from February March 17th 2020 - March 18th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a UOT version of the developer log from March 17th 2020 - March 18th 2020 [FOR SNU DEV LOG]
+
+• Exported a RTF version of the update log from March 17th 2020 - March 18th 2020 [FOR SNU UPDATE LOG]
+
+• Exported a RTF version of the developer log from March 17th 2020 - March 18th 2020 [FOR SNU DEV LOG]
+
+Today was another simple update day. I am slowly working on adding new features, at the moment I am putting some time into a translation service on a daily basis. I also am going to start online classes soon, once the links are fixed and don't lead to a 404 page. Site development is a little slow at the moment, and I have managed to keep development going on a daily basis for 3 months now. Today was a decent day for development.

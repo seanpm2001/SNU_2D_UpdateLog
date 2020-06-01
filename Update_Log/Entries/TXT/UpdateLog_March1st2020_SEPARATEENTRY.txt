@@ -1,0 +1,77 @@
+March 1st 2020
+Developer log entry for today: view it here (developer log day 396)
+
+I had a difficult day today, and a little bit of a difficult weekend. I wasn't able to get any special tasks done, other than what I normally do. I was going to try and back up my hard drive today, but I decided that my laptop still has enough space (170 Gigabytes of 1 TeraByte) so I held it off. I had little time to work on the site today originally, but I had to take out the rest of my major opportunities to relax, so I could get something done, and still wake up on time for school tomorrow.
+
+Normal documentation
+
+• Updated the SNU 2D update log - March 1st 2020 [FOR SNU UPDATE LOG]
+
+Changes:
+
+* Added an entry for today
+
+• Updated the SNU 2D developer log - March 1st 2020 [FOR SNU DEVELOPER LOG]
+Changes:
+
+* Created an entry for today
+
+• Created snapshot 338 for the SNU 2D update log - March 1st 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 338 for the SNU 2D developer log - March 1st 2020 [FOR SNU DEVELOPER LOG]
+
+• Updated the resource version index page - March 1st 2020 [FOR SNU LOBBY DIR]
+
+Changes:
+
+* 22 new versions added
+
+• Created snapshot 219 for the resource version index - March 1st 2020 [FOR SNU LOBBY DIR]
+
+• Created a separate update log page for the March 1st 2020 log - March 1st 2020 [FOR SNU UPDATE LOG]
+
+• Created a separate developer log page for the March 1st 2020 article - March 1st 2020 [FOR SNU DEVELOPER LOG]
+
+• Created snapshot 1 for the separate update log page for the March 1st 2020 log - March 1st 2020 [FOR SNU UPDATE LOG]
+
+• Created snapshot 1 for the separate developer log page for the March 1st 2020 article - March 1st 2020 [FOR SNU DEVELOPER LOG]
+
+SNU ideaboard
+
+• Updated the SNU Staff ideaboard - March 1st 2020 [FOR SNU IDEABOARD]
+
+• Created snapshot 193 for the SNU Staff ideaboard - March 1st 2020 [FOR SNU IDEABOARD]
+
+SNU BrowserNose
+
+• Updated the SNU BrowserNose homepage - March 1st 2020 [FOR SNU BROWSERNOSE]
+
+Changes:
+
+* Added more browser sections
+
+* Added more repository links
+
+* Added more documentation links
+
+• Created snapshot 5 for the SNU BrowserNose homepage - March 1st 2020 [FOR SNU BROWSERNOSE]
+
+SNU HTML Test references
+
+• Added in the "ClickToDieInstantly" HTML/CSS button test page - March 1st 2020 [FOR SNU HTML TEST REFERENCES]
+
+• Archived the state of the "ClickToDieInstantly" HTML/CSS test page (created snapshot 1) - March 1st 2020 [FOR SNU HTML TEST REFERENCES]
+
+• Updated the "ClickToDieInstantly" HTML/CSS test page - March 1st 2020 [FOR SNU HTML TEST REFERENCES]
+
+• Created snapshot 2 for the "ClickToDieInstantly" HTML/CSS test page - March 1st 2020 [FOR SNU HTML TEST REFERENCES]
+
+• Updated the homepage for the SNU HTML Test Reference section - March 1st 2020 [FOR SNU HTML TEST REFERENCES]
+
+• Created snapshot 3 for the SNU HTML Test Reference section - March 1st 2020 [FOR SNU HTML TEST REFERENCES]
+
+• Updaed the iframe free homepage for the SNU HTML Test references section (the page) - March 1st 2020 [FOR SNU HTML TEST REFERENCES]
+
+• Created snapshot 1 for the iframe free homepage of the SNU HTML Test references section - March 1st 2020 [FOR SNU HTML TEST REFERENCES]
+
+Today, I worked on a basic documentation update, with the new separate blog system, an update to the ideaboard, an update to the browser nose project, and an update to the HTML Test reference system. I have school again tomorrow, and I want to continue daily site updates. Today was a decent day for site development.
